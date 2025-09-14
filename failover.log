@@ -1,0 +1,4104 @@
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Not Found: /customers/
+"GET /customers/ HTTP/1.1" 404 2532
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/backend/urls.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Not Found: /customers/
+"GET /customers/ HTTP/1.1" 404 2389
+Not Found: /customers/
+"GET /customers/ HTTP/1.1" 404 2389
+Not Found: /customers/
+"GET /customers/ HTTP/1.1" 404 2389
+Not Found: /customers/
+"GET /customers/ HTTP/1.1" 404 2389
+Not Found: /customers/
+"GET /customers/ HTTP/1.1" 404 2389
+Not Found: /customers/
+"GET /customers/ HTTP/1.1" 404 2389
+Not Found: /customers/
+"GET /customers/ HTTP/1.1" 404 2389
+Not Found: /customers/
+"GET /customers/ HTTP/1.1" 404 2389
+Not Found: /customers/
+"GET /customers/ HTTP/1.1" 404 2389
+Not Found: /customers/
+"GET /customers/ HTTP/1.1" 404 2389
+Not Found: /customers/
+"GET /customers/ HTTP/1.1" 404 2389
+Not Found: /customers/
+"GET /customers/ HTTP/1.1" 404 2389
+Not Found: /customers/
+"GET /customers/ HTTP/1.1" 404 2389
+Not Found: /customers/
+"GET /customers/ HTTP/1.1" 404 2389
+Watching for file changes with StatReloader
+"GET /scalability/ HTTP/1.1" 200 4814
+Watching for file changes with StatReloader
+"GET /scalability/ HTTP/1.1" 200 71
+"GET /scalability/ HTTP/1.1" 200 71
+"GET /scalability/ HTTP/1.1" 200 71
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+- Broken pipe from ('127.0.0.1', 53682)
+"GET /scalability/ HTTP/1.1" 200 4816
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Internal Server Error: /scalability/
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.11/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: scalability_results() missing 1 required positional argument: 'request'
+"GET /scalability/ HTTP/1.1" 500 57128
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+- Broken pipe from ('127.0.0.1', 54413)
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /scalability/ HTTP/1.1" 200 4303
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2392
+Watching for file changes with StatReloader
+"GET /scalability/ HTTP/1.1" 200 4303
+"GET /scalability/ HTTP/1.1" 200 4303
+Watching for file changes with StatReloader
+"GET /scalability/ HTTP/1.1" 200 4303
+"GET /scalability/ HTTP/1.1" 200 4303
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /scalability/ HTTP/1.1" 200 4815
+"GET /scalability/ HTTP/1.1" 200 4816
+Watching for file changes with StatReloader
+- Broken pipe from ('127.0.0.1', 55724)
+"GET /scalability/ HTTP/1.1" 200 4886
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /scalability/ HTTP/1.1" 200 548
+"GET /scalability/ HTTP/1.1" 200 547
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+- Broken pipe from ('127.0.0.1', 57534)
+"GET /scalability/ HTTP/1.1" 200 1104
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+- Broken pipe from ('127.0.0.1', 59145)
+"GET /scalability/ HTTP/1.1" 200 5700
+Watching for file changes with StatReloader
+- Broken pipe from ('127.0.0.1', 59595)
+"GET /scalability/ HTTP/1.1" 200 824
+Watching for file changes with StatReloader
+- Broken pipe from ('127.0.0.1', 59645)
+"GET /scalability/ HTTP/1.1" 200 826
+Watching for file changes with StatReloader
+- Broken pipe from ('127.0.0.1', 59671)
+"GET /scalability/ HTTP/1.1" 200 825
+Watching for file changes with StatReloader
+- Broken pipe from ('127.0.0.1', 59718)
+"GET /scalability/ HTTP/1.1" 200 823
+Watching for file changes with StatReloader
+- Broken pipe from ('127.0.0.1', 59817)
+"GET /scalability/ HTTP/1.1" 200 825
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+- Broken pipe from ('127.0.0.1', 60228)
+"GET /scalability/ HTTP/1.1" 200 966
+Watching for file changes with StatReloader
+- Broken pipe from ('127.0.0.1', 60317)
+"GET /scalability/ HTTP/1.1" 200 965
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /scalability/ HTTP/1.1" 200 1385
+"GET /scalability/ HTTP/1.1" 200 1384
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /scalability/ HTTP/1.1" 200 1385
+"GET /scalability/ HTTP/1.1" 200 1387
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /scalability/ HTTP/1.1" 200 1387
+"GET /scalability/ HTTP/1.1" 200 1385
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /scalability/ HTTP/1.1" 200 913
+"GET /scalability/ HTTP/1.1" 200 96
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /scalability/ HTTP/1.1" 200 1406
+"GET /scalability/ HTTP/1.1" 200 1406
+"GET /scalability/ HTTP/1.1" 200 1406
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /scalability/ HTTP/1.1" 200 7877
+- Broken pipe from ('127.0.0.1', 61164)
+"GET /scalability/ HTTP/1.1" 200 7881
+Watching for file changes with StatReloader
+- Broken pipe from ('127.0.0.1', 61594)
+"GET /scalability/ HTTP/1.1" 200 8213
+Watching for file changes with StatReloader
+- Broken pipe from ('127.0.0.1', 61677)
+"GET /scalability/ HTTP/1.1" 200 8213
+Watching for file changes with StatReloader
+- Broken pipe from ('127.0.0.1', 61784)
+"GET /scalability/ HTTP/1.1" 200 7713
+Watching for file changes with StatReloader
+- Broken pipe from ('127.0.0.1', 62178)
+"GET /scalability/ HTTP/1.1" 200 8210
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Not Found: /
+"GET / HTTP/1.1" 404 2729
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /simulation_results/ HTTP/1.1" 200 31
+Forbidden (CSRF cookie not set.): /simulation_results/
+"POST /simulation_results/ HTTP/1.1" 403 2855
+- Broken pipe from ('127.0.0.1', 64167)
+- Broken pipe from ('127.0.0.1', 64168)
+- Broken pipe from ('127.0.0.1', 64157)
+- Broken pipe from ('127.0.0.1', 64151)
+- Broken pipe from ('127.0.0.1', 64160)
+"GET /scalability/ HTTP/1.1" 200 8063
+- Broken pipe from ('127.0.0.1', 64153)
+"GET /scalability/ HTTP/1.1" 200 8228
+- Broken pipe from ('127.0.0.1', 64169)
+- Broken pipe from ('127.0.0.1', 64166)
+"GET /scalability/ HTTP/1.1" 200 7881
+- Broken pipe from ('127.0.0.1', 64155)
+"GET /scalability/ HTTP/1.1" 200 7554
+- Broken pipe from ('127.0.0.1', 64165)
+"GET /scalability/ HTTP/1.1" 200 8043
+- Broken pipe from ('127.0.0.1', 64156)
+"GET /scalability/ HTTP/1.1" 200 7879
+- Broken pipe from ('127.0.0.1', 64162)
+"GET /scalability/ HTTP/1.1" 200 7882
+- Broken pipe from ('127.0.0.1', 64159)
+- Broken pipe from ('127.0.0.1', 64150)
+- Broken pipe from ('127.0.0.1', 64154)
+- Broken pipe from ('127.0.0.1', 64161)
+- Broken pipe from ('127.0.0.1', 64164)
+"GET /scalability/ HTTP/1.1" 200 7880
+- Broken pipe from ('127.0.0.1', 64163)
+- Broken pipe from ('127.0.0.1', 64230)
+- Broken pipe from ('127.0.0.1', 64158)
+- Broken pipe from ('127.0.0.1', 64227)
+- Broken pipe from ('127.0.0.1', 64224)
+- Broken pipe from ('127.0.0.1', 64225)
+"GET /scalability/ HTTP/1.1" 200 8384
+- Broken pipe from ('127.0.0.1', 64217)
+"GET /scalability/ HTTP/1.1" 200 7899
+- Broken pipe from ('127.0.0.1', 64216)
+- Broken pipe from ('127.0.0.1', 64223)
+- Broken pipe from ('127.0.0.1', 64218)
+- Broken pipe from ('127.0.0.1', 64226)
+"GET /scalability/ HTTP/1.1" 200 7880
+- Broken pipe from ('127.0.0.1', 64250)
+- Broken pipe from ('127.0.0.1', 64229)
+"GET /simulation_results/ HTTP/1.1" 200 31
+- Broken pipe from ('127.0.0.1', 64222)
+- Broken pipe from ('127.0.0.1', 64228)
+- Broken pipe from ('127.0.0.1', 64221)
+- Broken pipe from ('127.0.0.1', 64251)
+- Broken pipe from ('127.0.0.1', 64252)
+- Broken pipe from ('127.0.0.1', 64220)
+- Broken pipe from ('127.0.0.1', 64248)
+"GET /scalability/ HTTP/1.1" 200 8068
+- Broken pipe from ('127.0.0.1', 64231)
+- Broken pipe from ('127.0.0.1', 64290)
+- Broken pipe from ('127.0.0.1', 64287)
+- Broken pipe from ('127.0.0.1', 64219)
+- Broken pipe from ('127.0.0.1', 64278)
+- Broken pipe from ('127.0.0.1', 64309)
+- Broken pipe from ('127.0.0.1', 64288)
+- Broken pipe from ('127.0.0.1', 64313)
+"GET /scalability/ HTTP/1.1" 200 7878
+- Broken pipe from ('127.0.0.1', 64280)
+- Broken pipe from ('127.0.0.1', 64289)
+"GET /scalability/ HTTP/1.1" 200 8400
+- Broken pipe from ('127.0.0.1', 64152)
+- Broken pipe from ('127.0.0.1', 64277)
+"GET /scalability/ HTTP/1.1" 200 8061
+- Broken pipe from ('127.0.0.1', 64281)
+- Broken pipe from ('127.0.0.1', 64282)
+- Broken pipe from ('127.0.0.1', 64291)
+- Broken pipe from ('127.0.0.1', 64285)
+- Broken pipe from ('127.0.0.1', 64283)
+"GET /scalability/ HTTP/1.1" 200 7712
+- Broken pipe from ('127.0.0.1', 64312)
+- Broken pipe from ('127.0.0.1', 64292)
+"GET /scalability/ HTTP/1.1" 200 8058
+- Broken pipe from ('127.0.0.1', 64311)
+- Broken pipe from ('127.0.0.1', 64286)
+"GET /scalability/ HTTP/1.1" 200 8224
+- Broken pipe from ('127.0.0.1', 64284)
+- Broken pipe from ('127.0.0.1', 64389)
+- Broken pipe from ('127.0.0.1', 64390)
+- Broken pipe from ('127.0.0.1', 64393)
+"GET /scalability/ HTTP/1.1" 200 8045
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"POST /save_simulation_results/ HTTP/1.1" 200 64
+- Broken pipe from ('127.0.0.1', 64560)
+- Broken pipe from ('127.0.0.1', 64556)
+- Broken pipe from ('127.0.0.1', 64554)
+- Broken pipe from ('127.0.0.1', 64557)
+"GET /scalability/ HTTP/1.1" 200 8051
+- Broken pipe from ('127.0.0.1', 64570)
+- Broken pipe from ('127.0.0.1', 64564)
+- Broken pipe from ('127.0.0.1', 64566)
+- Broken pipe from ('127.0.0.1', 64568)
+- Broken pipe from ('127.0.0.1', 64558)
+- Broken pipe from ('127.0.0.1', 64563)
+"GET /scalability/ HTTP/1.1" 200 8042
+- Broken pipe from ('127.0.0.1', 64573)
+- Broken pipe from ('127.0.0.1', 64571)
+- Broken pipe from ('127.0.0.1', 64561)
+- Broken pipe from ('127.0.0.1', 64559)
+"GET /scalability/ HTTP/1.1" 200 8050
+- Broken pipe from ('127.0.0.1', 64572)
+- Broken pipe from ('127.0.0.1', 64567)
+"GET /scalability/ HTTP/1.1" 200 7728
+- Broken pipe from ('127.0.0.1', 64562)
+- Broken pipe from ('127.0.0.1', 64569)
+"GET /scalability/ HTTP/1.1" 200 8049
+- Broken pipe from ('127.0.0.1', 64555)
+"GET /scalability/ HTTP/1.1" 200 8214
+- Broken pipe from ('127.0.0.1', 64565)
+"GET /scalability/ HTTP/1.1" 200 8224
+- Broken pipe from ('127.0.0.1', 64615)
+"GET /scalability/ HTTP/1.1" 200 8062
+- Broken pipe from ('127.0.0.1', 64624)
+- Broken pipe from ('127.0.0.1', 64623)
+- Broken pipe from ('127.0.0.1', 64616)
+"GET /scalability/ HTTP/1.1" 200 8223
+- Broken pipe from ('127.0.0.1', 64629)
+- Broken pipe from ('127.0.0.1', 64625)
+"GET /scalability/ HTTP/1.1" 200 8052
+- Broken pipe from ('127.0.0.1', 64622)
+"GET /scalability/ HTTP/1.1" 200 8228
+- Broken pipe from ('127.0.0.1', 64633)
+- Broken pipe from ('127.0.0.1', 64621)
+- Broken pipe from ('127.0.0.1', 64619)
+"GET /scalability/ HTTP/1.1" 200 8062
+- Broken pipe from ('127.0.0.1', 64632)
+- Broken pipe from ('127.0.0.1', 64628)
+"GET /scalability/ HTTP/1.1" 200 8061
+- Broken pipe from ('127.0.0.1', 64626)
+"GET /scalability/ HTTP/1.1" 200 8231
+- Broken pipe from ('127.0.0.1', 64634)
+"GET /scalability/ HTTP/1.1" 200 8065
+- Broken pipe from ('127.0.0.1', 64620)
+- Broken pipe from ('127.0.0.1', 64631)
+- Broken pipe from ('127.0.0.1', 64630)
+"GET /scalability/ HTTP/1.1" 200 7551
+- Broken pipe from ('127.0.0.1', 64618)
+- Broken pipe from ('127.0.0.1', 64691)
+- Broken pipe from ('127.0.0.1', 64627)
+"GET /scalability/ HTTP/1.1" 200 8069
+- Broken pipe from ('127.0.0.1', 64617)
+- Broken pipe from ('127.0.0.1', 64680)
+- Broken pipe from ('127.0.0.1', 64679)
+"GET /scalability/ HTTP/1.1" 200 7900
+- Broken pipe from ('127.0.0.1', 64682)
+"GET /scalability/ HTTP/1.1" 200 8234
+- Broken pipe from ('127.0.0.1', 64689)
+"GET /scalability/ HTTP/1.1" 200 8076
+- Broken pipe from ('127.0.0.1', 64693)
+- Broken pipe from ('127.0.0.1', 64714)
+- Broken pipe from ('127.0.0.1', 64686)
+- Broken pipe from ('127.0.0.1', 64684)
+- Broken pipe from ('127.0.0.1', 64694)
+- Broken pipe from ('127.0.0.1', 64687)
+- Broken pipe from ('127.0.0.1', 64676)
+- Broken pipe from ('127.0.0.1', 64688)
+"GET /scalability/ HTTP/1.1" 200 8063
+- Broken pipe from ('127.0.0.1', 64685)
+"GET /scalability/ HTTP/1.1" 200 8065
+- Broken pipe from ('127.0.0.1', 64677)
+"GET /scalability/ HTTP/1.1" 200 8060
+- Broken pipe from ('127.0.0.1', 64692)
+- Broken pipe from ('127.0.0.1', 64683)
+- Broken pipe from ('127.0.0.1', 64678)
+- Broken pipe from ('127.0.0.1', 64681)
+"GET /scalability/ HTTP/1.1" 200 7900
+- Broken pipe from ('127.0.0.1', 64690)
+- Broken pipe from ('127.0.0.1', 64738)
+- Broken pipe from ('127.0.0.1', 64740)
+"GET /scalability/ HTTP/1.1" 200 7885
+- Broken pipe from ('127.0.0.1', 64742)
+"GET /scalability/ HTTP/1.1" 200 7887
+"GET /simulation_results/ HTTP/1.1" 200 2261
+Method Not Allowed: /save_simulation_results/
+"GET /save_simulation_results/ HTTP/1.1" 405 57
+Method Not Allowed: /save_simulation_results/
+"GET /save_simulation_results/ HTTP/1.1" 405 57
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2780
+Method Not Allowed: /save_simulation_results/
+"GET /save_simulation_results/ HTTP/1.1" 405 57
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2780
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"POST /save_simulation_results/ HTTP/1.1" 200 64
+"GET /scalability/ HTTP/1.1" 200 8389
+- Broken pipe from ('127.0.0.1', 65233)
+"GET /scalability/ HTTP/1.1" 200 8378
+- Broken pipe from ('127.0.0.1', 65231)
+- Broken pipe from ('127.0.0.1', 65225)
+- Broken pipe from ('127.0.0.1', 65217)
+"GET /scalability/ HTTP/1.1" 200 8218
+- Broken pipe from ('127.0.0.1', 65228)
+- Broken pipe from ('127.0.0.1', 65230)
+- Broken pipe from ('127.0.0.1', 65234)
+"GET /scalability/ HTTP/1.1" 200 7882
+- Broken pipe from ('127.0.0.1', 65229)
+"GET /scalability/ HTTP/1.1" 200 8209
+- Broken pipe from ('127.0.0.1', 65218)
+- Broken pipe from ('127.0.0.1', 65222)
+"GET /scalability/ HTTP/1.1" 200 8212
+- Broken pipe from ('127.0.0.1', 65232)
+"GET /scalability/ HTTP/1.1" 200 8385
+- Broken pipe from ('127.0.0.1', 65227)
+- Broken pipe from ('127.0.0.1', 65223)
+"GET /scalability/ HTTP/1.1" 200 8209
+- Broken pipe from ('127.0.0.1', 65216)
+- Broken pipe from ('127.0.0.1', 65235)
+- Broken pipe from ('127.0.0.1', 65219)
+- Broken pipe from ('127.0.0.1', 65220)
+"GET /scalability/ HTTP/1.1" 200 8207
+- Broken pipe from ('127.0.0.1', 65224)
+"GET /scalability/ HTTP/1.1" 200 8044
+- Broken pipe from ('127.0.0.1', 65221)
+- Broken pipe from ('127.0.0.1', 65288)
+"GET /scalability/ HTTP/1.1" 200 8207
+- Broken pipe from ('127.0.0.1', 65285)
+- Broken pipe from ('127.0.0.1', 65280)
+"GET /scalability/ HTTP/1.1" 200 8222
+- Broken pipe from ('127.0.0.1', 65226)
+- Broken pipe from ('127.0.0.1', 65297)
+"GET /scalability/ HTTP/1.1" 200 8055
+- Broken pipe from ('127.0.0.1', 65293)
+- Broken pipe from ('127.0.0.1', 65294)
+- Broken pipe from ('127.0.0.1', 65299)
+"GET /scalability/ HTTP/1.1" 200 8217
+- Broken pipe from ('127.0.0.1', 65290)
+- Broken pipe from ('127.0.0.1', 65281)
+- Broken pipe from ('127.0.0.1', 65298)
+- Broken pipe from ('127.0.0.1', 65295)
+- Broken pipe from ('127.0.0.1', 65296)
+- Broken pipe from ('127.0.0.1', 65282)
+- Broken pipe from ('127.0.0.1', 65284)
+- Broken pipe from ('127.0.0.1', 65283)
+- Broken pipe from ('127.0.0.1', 65292)
+- Broken pipe from ('127.0.0.1', 65291)
+"GET /scalability/ HTTP/1.1" 200 8208
+- Broken pipe from ('127.0.0.1', 65289)
+"GET /scalability/ HTTP/1.1" 200 8058
+- Broken pipe from ('127.0.0.1', 65287)
+- Broken pipe from ('127.0.0.1', 65286)
+- Broken pipe from ('127.0.0.1', 65348)
+- Broken pipe from ('127.0.0.1', 65344)
+- Broken pipe from ('127.0.0.1', 65352)
+- Broken pipe from ('127.0.0.1', 65347)
+- Broken pipe from ('127.0.0.1', 65343)
+- Broken pipe from ('127.0.0.1', 65346)
+- Broken pipe from ('127.0.0.1', 65357)
+- Broken pipe from ('127.0.0.1', 65358)
+"GET /scalability/ HTTP/1.1" 200 8049
+- Broken pipe from ('127.0.0.1', 65345)
+"GET /scalability/ HTTP/1.1" 200 8222
+- Broken pipe from ('127.0.0.1', 65354)
+- Broken pipe from ('127.0.0.1', 65341)
+"GET /scalability/ HTTP/1.1" 200 7864
+- Broken pipe from ('127.0.0.1', 65356)
+- Broken pipe from ('127.0.0.1', 65355)
+- Broken pipe from ('127.0.0.1', 65351)
+- Broken pipe from ('127.0.0.1', 65350)
+- Broken pipe from ('127.0.0.1', 65349)
+- Broken pipe from ('127.0.0.1', 65342)
+- Broken pipe from ('127.0.0.1', 65377)
+- Broken pipe from ('127.0.0.1', 65378)
+- Broken pipe from ('127.0.0.1', 65353)
+Not Found: /get_simulation_results/
+"GET /get_simulation_results/ HTTP/1.1" 404 2816
+Not Found: /get_simulation_results/
+"GET /get_simulation_results/ HTTP/1.1" 404 2816
+Not Found: /get_simulation_results/
+"GET /get_simulation_results/ HTTP/1.1" 404 2816
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"POST /save_simulation_results/ HTTP/1.1" 200 64
+Not Found: /get_simulation_results/
+"GET /get_simulation_results/ HTTP/1.1" 404 2816
+Not Found: /get_simulation_results/
+"GET /get_simulation_results/ HTTP/1.1" 404 2816
+Not Found: /get_simulation_results/
+"GET /get_simulation_results/ HTTP/1.1" 404 2816
+- Broken pipe from ('127.0.0.1', 65513)
+"GET /scalability/ HTTP/1.1" 200 8388
+- Broken pipe from ('127.0.0.1', 65519)
+- Broken pipe from ('127.0.0.1', 65518)
+- Broken pipe from ('127.0.0.1', 65521)
+"GET /scalability/ HTTP/1.1" 200 8219
+- Broken pipe from ('127.0.0.1', 65522)
+"GET /scalability/ HTTP/1.1" 200 8055
+- Broken pipe from ('127.0.0.1', 65529)
+"GET /scalability/ HTTP/1.1" 200 8214
+- Broken pipe from ('127.0.0.1', 65517)
+- Broken pipe from ('127.0.0.1', 65514)
+- Broken pipe from ('127.0.0.1', 65530)
+"GET /scalability/ HTTP/1.1" 200 8048
+- Broken pipe from ('127.0.0.1', 65523)
+"GET /scalability/ HTTP/1.1" 200 8216
+- Broken pipe from ('127.0.0.1', 65532)
+"GET /scalability/ HTTP/1.1" 200 8047
+- Broken pipe from ('127.0.0.1', 65527)
+"GET /scalability/ HTTP/1.1" 200 8050
+- Broken pipe from ('127.0.0.1', 65516)
+"GET /scalability/ HTTP/1.1" 200 8212
+- Broken pipe from ('127.0.0.1', 65520)
+"GET /scalability/ HTTP/1.1" 200 8047
+- Broken pipe from ('127.0.0.1', 65528)
+- Broken pipe from ('127.0.0.1', 65524)
+- Broken pipe from ('127.0.0.1', 65531)
+"GET /scalability/ HTTP/1.1" 200 8385
+- Broken pipe from ('127.0.0.1', 65525)
+"GET /scalability/ HTTP/1.1" 200 8220
+- Broken pipe from ('127.0.0.1', 65526)
+- Broken pipe from ('127.0.0.1', 49205)
+- Broken pipe from ('127.0.0.1', 65515)
+"GET /scalability/ HTTP/1.1" 200 7889
+- Broken pipe from ('127.0.0.1', 49208)
+- Broken pipe from ('127.0.0.1', 49209)
+- Broken pipe from ('127.0.0.1', 49202)
+- Broken pipe from ('127.0.0.1', 49201)
+- Broken pipe from ('127.0.0.1', 49204)
+"GET /scalability/ HTTP/1.1" 200 8393
+- Broken pipe from ('127.0.0.1', 49197)
+"GET /scalability/ HTTP/1.1" 200 8233
+- Broken pipe from ('127.0.0.1', 49203)
+"GET /scalability/ HTTP/1.1" 200 8050
+- Broken pipe from ('127.0.0.1', 49210)
+- Broken pipe from ('127.0.0.1', 49195)
+- Broken pipe from ('127.0.0.1', 49194)
+"GET /scalability/ HTTP/1.1" 200 8044
+- Broken pipe from ('127.0.0.1', 49200)
+- Broken pipe from ('127.0.0.1', 49196)
+- Broken pipe from ('127.0.0.1', 49198)
+- Broken pipe from ('127.0.0.1', 49212)
+- Broken pipe from ('127.0.0.1', 49199)
+- Broken pipe from ('127.0.0.1', 49193)
+- Broken pipe from ('127.0.0.1', 49206)
+- Broken pipe from ('127.0.0.1', 49207)
+"GET /scalability/ HTTP/1.1" 200 8224
+- Broken pipe from ('127.0.0.1', 49211)
+- Broken pipe from ('127.0.0.1', 49256)
+- Broken pipe from ('127.0.0.1', 49263)
+- Broken pipe from ('127.0.0.1', 49264)
+- Broken pipe from ('127.0.0.1', 49269)
+- Broken pipe from ('127.0.0.1', 49268)
+- Broken pipe from ('127.0.0.1', 49260)
+- Broken pipe from ('127.0.0.1', 49270)
+"GET /scalability/ HTTP/1.1" 200 7885
+- Broken pipe from ('127.0.0.1', 49265)
+"GET /scalability/ HTTP/1.1" 200 8200
+- Broken pipe from ('127.0.0.1', 49274)
+"GET /scalability/ HTTP/1.1" 200 8064
+- Broken pipe from ('127.0.0.1', 49261)
+"GET /scalability/ HTTP/1.1" 200 8226
+- Broken pipe from ('127.0.0.1', 49259)
+"GET /scalability/ HTTP/1.1" 200 8051
+- Broken pipe from ('127.0.0.1', 49258)
+- Broken pipe from ('127.0.0.1', 49267)
+- Broken pipe from ('127.0.0.1', 49272)
+- Broken pipe from ('127.0.0.1', 49271)
+"GET /scalability/ HTTP/1.1" 200 8065
+- Broken pipe from ('127.0.0.1', 49262)
+- Broken pipe from ('127.0.0.1', 49275)
+"GET /scalability/ HTTP/1.1" 200 7895
+- Broken pipe from ('127.0.0.1', 49266)
+"GET /scalability/ HTTP/1.1" 200 7899
+- Broken pipe from ('127.0.0.1', 49257)
+Not Found: /load_simulation
+"GET /load_simulation HTTP/1.1" 404 2792
+- Broken pipe from ('127.0.0.1', 49273)
+"GET /save_simulation_results HTTP/1.1" 301 0
+Method Not Allowed: /save_simulation_results/
+"GET /save_simulation_results/ HTTP/1.1" 405 57
+"GET /simulation_results HTTP/1.1" 301 0
+"GET /simulation_results/ HTTP/1.1" 200 2261
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"POST /save_simulation_results/ HTTP/1.1" 200 64
+- Broken pipe from ('127.0.0.1', 49544)
+- Broken pipe from ('127.0.0.1', 49548)
+"GET /scalability/ HTTP/1.1" 200 8220
+- Broken pipe from ('127.0.0.1', 49551)
+"GET /scalability/ HTTP/1.1" 200 8040
+"POST /save_simulation_results/ HTTP/1.1" 200 64
+"GET /scalability/ HTTP/1.1" 200 8050
+- Broken pipe from ('127.0.0.1', 49591)
+"GET /scalability/ HTTP/1.1" 200 7557
+- Broken pipe from ('127.0.0.1', 49590)
+- Broken pipe from ('127.0.0.1', 49609)
+- Broken pipe from ('127.0.0.1', 49598)
+- Broken pipe from ('127.0.0.1', 49608)
+- Broken pipe from ('127.0.0.1', 49589)
+"GET /scalability/ HTTP/1.1" 200 8065
+- Broken pipe from ('127.0.0.1', 49599)
+- Broken pipe from ('127.0.0.1', 49602)
+- Broken pipe from ('127.0.0.1', 49600)
+- Broken pipe from ('127.0.0.1', 49594)
+- Broken pipe from ('127.0.0.1', 49593)
+"GET /scalability/ HTTP/1.1" 200 8383
+- Broken pipe from ('127.0.0.1', 49597)
+"GET /scalability/ HTTP/1.1" 200 8217
+- Broken pipe from ('127.0.0.1', 49595)
+"GET /scalability/ HTTP/1.1" 200 8389
+- Broken pipe from ('127.0.0.1', 49596)
+"GET /scalability/ HTTP/1.1" 200 8055
+- Broken pipe from ('127.0.0.1', 49587)
+"GET /scalability/ HTTP/1.1" 200 8060
+- Broken pipe from ('127.0.0.1', 49588)
+- Broken pipe from ('127.0.0.1', 49601)
+- Broken pipe from ('127.0.0.1', 49592)
+"GET /scalability/ HTTP/1.1" 200 7713
+- Broken pipe from ('127.0.0.1', 49610)
+- Broken pipe from ('127.0.0.1', 49644)
+- Broken pipe from ('127.0.0.1', 49656)
+- Broken pipe from ('127.0.0.1', 49637)
+- Broken pipe from ('127.0.0.1', 49660)
+- Broken pipe from ('127.0.0.1', 49607)
+- Broken pipe from ('127.0.0.1', 49638)
+- Broken pipe from ('127.0.0.1', 49653)
+- Broken pipe from ('127.0.0.1', 49655)
+- Broken pipe from ('127.0.0.1', 49639)
+- Broken pipe from ('127.0.0.1', 49659)
+"GET /scalability/ HTTP/1.1" 200 8047
+- Broken pipe from ('127.0.0.1', 49645)
+"GET /scalability/ HTTP/1.1" 200 7714
+- Broken pipe from ('127.0.0.1', 49640)
+- Broken pipe from ('127.0.0.1', 49661)
+- Broken pipe from ('127.0.0.1', 49643)
+- Broken pipe from ('127.0.0.1', 49641)
+- Broken pipe from ('127.0.0.1', 49652)
+- Broken pipe from ('127.0.0.1', 49650)
+- Broken pipe from ('127.0.0.1', 49642)
+"GET /scalability/ HTTP/1.1" 200 8214
+- Broken pipe from ('127.0.0.1', 49646)
+- Broken pipe from ('127.0.0.1', 49654)
+- Broken pipe from ('127.0.0.1', 49647)
+- Broken pipe from ('127.0.0.1', 49700)
+- Broken pipe from ('127.0.0.1', 49698)
+- Broken pipe from ('127.0.0.1', 49679)
+"GET /scalability/ HTTP/1.1" 200 8213
+- Broken pipe from ('127.0.0.1', 49701)
+"GET /scalability/ HTTP/1.1" 200 8068
+- Broken pipe from ('127.0.0.1', 49678)
+- Broken pipe from ('127.0.0.1', 49705)
+"GET /scalability/ HTTP/1.1" 200 8050
+- Broken pipe from ('127.0.0.1', 49689)
+- Broken pipe from ('127.0.0.1', 49687)
+- Broken pipe from ('127.0.0.1', 49683)
+"GET /scalability/ HTTP/1.1" 200 8222
+- Broken pipe from ('127.0.0.1', 49686)
+- Broken pipe from ('127.0.0.1', 49685)
+- Broken pipe from ('127.0.0.1', 49691)
+- Broken pipe from ('127.0.0.1', 49694)
+"GET /scalability/ HTTP/1.1" 200 7874
+- Broken pipe from ('127.0.0.1', 49697)
+"GET /scalability/ HTTP/1.1" 200 8380
+- Broken pipe from ('127.0.0.1', 49681)
+- Broken pipe from ('127.0.0.1', 49680)
+- Broken pipe from ('127.0.0.1', 49693)
+"GET /scalability/ HTTP/1.1" 200 8380
+- Broken pipe from ('127.0.0.1', 49690)
+- Broken pipe from ('127.0.0.1', 49682)
+"GET /scalability/ HTTP/1.1" 200 7894
+- Broken pipe from ('127.0.0.1', 49699)
+Not Found: /get_simulation_results/
+"GET /get_simulation_results/ HTTP/1.1" 404 2816
+Not Found: /get_simulation_results/
+"GET /get_simulation_results/ HTTP/1.1" 404 2816
+Not Found: /get_simulation_results/
+"GET /get_simulation_results/ HTTP/1.1" 404 2816
+- Broken pipe from ('127.0.0.1', 50116)
+"GET /scalability/ HTTP/1.1" 200 8383
+- Broken pipe from ('127.0.0.1', 50121)
+- Broken pipe from ('127.0.0.1', 50130)
+"GET /scalability/ HTTP/1.1" 200 8040
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /simulation_results/ HTTP/1.1" 200 31
+"POST /save_simulation_results/ HTTP/1.1" 200 64
+"GET /simulation_results/ HTTP/1.1" 200 2261
+"GET /scalability/ HTTP/1.1" 200 8197
+- Broken pipe from ('127.0.0.1', 50369)
+"GET /scalability/ HTTP/1.1" 200 8061
+- Broken pipe from ('127.0.0.1', 50376)
+"GET /scalability/ HTTP/1.1" 200 8218
+- Broken pipe from ('127.0.0.1', 50378)
+- Broken pipe from ('127.0.0.1', 50381)
+- Broken pipe from ('127.0.0.1', 50380)
+- Broken pipe from ('127.0.0.1', 50372)
+- Broken pipe from ('127.0.0.1', 50367)
+- Broken pipe from ('127.0.0.1', 50382)
+- Broken pipe from ('127.0.0.1', 50377)
+"GET /scalability/ HTTP/1.1" 200 8054
+- Broken pipe from ('127.0.0.1', 50383)
+- Broken pipe from ('127.0.0.1', 50384)
+"GET /scalability/ HTTP/1.1" 200 8050
+- Broken pipe from ('127.0.0.1', 50385)
+"GET /scalability/ HTTP/1.1" 200 8044
+- Broken pipe from ('127.0.0.1', 50375)
+"GET /scalability/ HTTP/1.1" 200 8220
+- Broken pipe from ('127.0.0.1', 50371)
+"GET /scalability/ HTTP/1.1" 200 8226
+- Broken pipe from ('127.0.0.1', 50366)
+"GET /scalability/ HTTP/1.1" 200 8209
+- Broken pipe from ('127.0.0.1', 50374)
+"GET /scalability/ HTTP/1.1" 200 8066
+- Broken pipe from ('127.0.0.1', 50370)
+- Broken pipe from ('127.0.0.1', 50368)
+"GET /scalability/ HTTP/1.1" 200 8214
+- Broken pipe from ('127.0.0.1', 50373)
+"GET /scalability/ HTTP/1.1" 200 7889
+- Broken pipe from ('127.0.0.1', 50379)
+- Broken pipe from ('127.0.0.1', 50443)
+"GET /scalability/ HTTP/1.1" 200 7884
+- Broken pipe from ('127.0.0.1', 50434)
+- Broken pipe from ('127.0.0.1', 50446)
+- Broken pipe from ('127.0.0.1', 50432)
+"GET /scalability/ HTTP/1.1" 200 8062
+- Broken pipe from ('127.0.0.1', 50439)
+- Broken pipe from ('127.0.0.1', 50436)
+"GET /scalability/ HTTP/1.1" 200 8060
+- Broken pipe from ('127.0.0.1', 50442)
+"GET /scalability/ HTTP/1.1" 200 7880
+- Broken pipe from ('127.0.0.1', 50445)
+- Broken pipe from ('127.0.0.1', 50435)
+- Broken pipe from ('127.0.0.1', 50449)
+- Broken pipe from ('127.0.0.1', 50437)
+- Broken pipe from ('127.0.0.1', 50433)
+"GET /scalability/ HTTP/1.1" 200 8223
+- Broken pipe from ('127.0.0.1', 50440)
+"GET /scalability/ HTTP/1.1" 200 8217
+- Broken pipe from ('127.0.0.1', 50438)
+"GET /scalability/ HTTP/1.1" 200 7724
+- Broken pipe from ('127.0.0.1', 50441)
+- Broken pipe from ('127.0.0.1', 50450)
+"GET /scalability/ HTTP/1.1" 200 7889
+- Broken pipe from ('127.0.0.1', 50447)
+"GET /scalability/ HTTP/1.1" 200 8043
+- Broken pipe from ('127.0.0.1', 50431)
+"GET /scalability/ HTTP/1.1" 200 8224
+- Broken pipe from ('127.0.0.1', 50444)
+"GET /scalability/ HTTP/1.1" 200 8223
+- Broken pipe from ('127.0.0.1', 50448)
+- Broken pipe from ('127.0.0.1', 50504)
+- Broken pipe from ('127.0.0.1', 50500)
+- Broken pipe from ('127.0.0.1', 50501)
+"GET /scalability/ HTTP/1.1" 200 8223
+- Broken pipe from ('127.0.0.1', 50497)
+- Broken pipe from ('127.0.0.1', 50496)
+- Broken pipe from ('127.0.0.1', 50499)
+- Broken pipe from ('127.0.0.1', 50506)
+- Broken pipe from ('127.0.0.1', 50494)
+- Broken pipe from ('127.0.0.1', 50507)
+- Broken pipe from ('127.0.0.1', 50511)
+- Broken pipe from ('127.0.0.1', 50505)
+- Broken pipe from ('127.0.0.1', 50512)
+"GET /scalability/ HTTP/1.1" 200 8051
+- Broken pipe from ('127.0.0.1', 50503)
+"GET /scalability/ HTTP/1.1" 200 8223
+- Broken pipe from ('127.0.0.1', 50493)
+"GET /scalability/ HTTP/1.1" 200 7722
+- Broken pipe from ('127.0.0.1', 50510)
+- Broken pipe from ('127.0.0.1', 50498)
+"GET /scalability/ HTTP/1.1" 200 8225
+- Broken pipe from ('127.0.0.1', 50509)
+- Broken pipe from ('127.0.0.1', 50508)
+- Broken pipe from ('127.0.0.1', 50495)
+- Broken pipe from ('127.0.0.1', 50502)
+"GET /scalability/ HTTP/1.1" 200 8376
+- Broken pipe from ('127.0.0.1', 50563)
+- Broken pipe from ('127.0.0.1', 50566)
+"GET /scalability/ HTTP/1.1" 200 8380
+- Broken pipe from ('127.0.0.1', 50570)
+"GET /scalability/ HTTP/1.1" 200 8215
+"GET /simulation_results/ HTTP/1.1" 200 2261
+"GET /simulation_results/ HTTP/1.1" 200 2261
+"GET /simulation_results/ HTTP/1.1" 200 2261
+Watching for file changes with StatReloader
+"POST /save_simulation_results/ HTTP/1.1" 200 64
+"GET /simulation_results/ HTTP/1.1" 200 2261
+- Broken pipe from ('127.0.0.1', 51006)
+- Broken pipe from ('127.0.0.1', 51001)
+"GET /scalability/ HTTP/1.1" 200 7891
+- Broken pipe from ('127.0.0.1', 51002)
+"GET /scalability/ HTTP/1.1" 200 8055
+- Broken pipe from ('127.0.0.1', 51019)
+"GET /scalability/ HTTP/1.1" 200 7883
+- Broken pipe from ('127.0.0.1', 51017)
+- Broken pipe from ('127.0.0.1', 51012)
+- Broken pipe from ('127.0.0.1', 51005)
+- Broken pipe from ('127.0.0.1', 51011)
+- Broken pipe from ('127.0.0.1', 51009)
+- Broken pipe from ('127.0.0.1', 51000)
+"GET /scalability/ HTTP/1.1" 200 8381
+- Broken pipe from ('127.0.0.1', 51013)
+"GET /scalability/ HTTP/1.1" 200 8051
+- Broken pipe from ('127.0.0.1', 51010)
+"GET /scalability/ HTTP/1.1" 200 8389
+- Broken pipe from ('127.0.0.1', 51015)
+- Broken pipe from ('127.0.0.1', 51018)
+- Broken pipe from ('127.0.0.1', 51016)
+- Broken pipe from ('127.0.0.1', 51007)
+- Broken pipe from ('127.0.0.1', 51003)
+- Broken pipe from ('127.0.0.1', 51014)
+"GET /scalability/ HTTP/1.1" 200 8050
+- Broken pipe from ('127.0.0.1', 51008)
+- Broken pipe from ('127.0.0.1', 51004)
+- Broken pipe from ('127.0.0.1', 51115)
+"GET /scalability/ HTTP/1.1" 200 8199
+"GET /simulation_results/ HTTP/1.1" 200 2261
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /simulation_results/ HTTP/1.1" 200 31
+"POST /save_simulation_results/ HTTP/1.1" 200 64
+"GET /simulation_results/ HTTP/1.1" 200 2261
+- Broken pipe from ('127.0.0.1', 51298)
+"GET /scalability/ HTTP/1.1" 200 8223
+- Broken pipe from ('127.0.0.1', 51297)
+- Broken pipe from ('127.0.0.1', 51299)
+"GET /scalability/ HTTP/1.1" 200 8227
+- Broken pipe from ('127.0.0.1', 51296)
+- Broken pipe from ('127.0.0.1', 51311)
+- Broken pipe from ('127.0.0.1', 51312)
+- Broken pipe from ('127.0.0.1', 51314)
+- Broken pipe from ('127.0.0.1', 51313)
+"GET /scalability/ HTTP/1.1" 200 8048
+- Broken pipe from ('127.0.0.1', 51327)
+- Broken pipe from ('127.0.0.1', 51329)
+- Broken pipe from ('127.0.0.1', 51344)
+"GET /scalability/ HTTP/1.1" 200 8056
+- Broken pipe from ('127.0.0.1', 51343)
+- Broken pipe from ('127.0.0.1', 51345)
+"GET /scalability/ HTTP/1.1" 200 8056
+- Broken pipe from ('127.0.0.1', 51342)
+- Broken pipe from ('127.0.0.1', 51328)
+- Broken pipe from ('127.0.0.1', 51326)
+- Broken pipe from ('127.0.0.1', 51351)
+"GET /scalability/ HTTP/1.1" 200 8213
+- Broken pipe from ('127.0.0.1', 51353)
+"GET /scalability/ HTTP/1.1" 200 8378
+- Broken pipe from ('127.0.0.1', 51354)
+- Broken pipe from ('127.0.0.1', 51352)
+- Broken pipe from ('127.0.0.1', 51358)
+- Broken pipe from ('127.0.0.1', 51367)
+- Broken pipe from ('127.0.0.1', 51360)
+- Broken pipe from ('127.0.0.1', 51365)
+- Broken pipe from ('127.0.0.1', 51357)
+- Broken pipe from ('127.0.0.1', 51359)
+- Broken pipe from ('127.0.0.1', 51368)
+- Broken pipe from ('127.0.0.1', 51366)
+- Broken pipe from ('127.0.0.1', 51371)
+- Broken pipe from ('127.0.0.1', 51370)
+- Broken pipe from ('127.0.0.1', 51369)
+- Broken pipe from ('127.0.0.1', 51372)
+- Broken pipe from ('127.0.0.1', 51390)
+"GET /scalability/ HTTP/1.1" 200 8073
+- Broken pipe from ('127.0.0.1', 51380)
+"GET /scalability/ HTTP/1.1" 200 8073
+- Broken pipe from ('127.0.0.1', 51375)
+- Broken pipe from ('127.0.0.1', 51387)
+"GET /scalability/ HTTP/1.1" 200 7909
+- Broken pipe from ('127.0.0.1', 51392)
+"GET /scalability/ HTTP/1.1" 200 8402
+- Broken pipe from ('127.0.0.1', 51378)
+- Broken pipe from ('127.0.0.1', 51374)
+- Broken pipe from ('127.0.0.1', 51386)
+- Broken pipe from ('127.0.0.1', 51404)
+- Broken pipe from ('127.0.0.1', 51398)
+- Broken pipe from ('127.0.0.1', 51399)
+"GET /scalability/ HTTP/1.1" 200 8230
+- Broken pipe from ('127.0.0.1', 51402)
+- Broken pipe from ('127.0.0.1', 51414)
+- Broken pipe from ('127.0.0.1', 51412)
+"GET /scalability/ HTTP/1.1" 200 7737
+- Broken pipe from ('127.0.0.1', 51415)
+"GET /scalability/ HTTP/1.1" 200 8254
+- Broken pipe from ('127.0.0.1', 51422)
+"GET /scalability/ HTTP/1.1" 200 8066
+- Broken pipe from ('127.0.0.1', 51413)
+"GET /scalability/ HTTP/1.1" 200 8075
+- Broken pipe from ('127.0.0.1', 51421)
+- Broken pipe from ('127.0.0.1', 51423)
+"GET /simulation_results/ HTTP/1.1" 200 2261
+"GET /scalability/ HTTP/1.1" 200 8409
+- Broken pipe from ('127.0.0.1', 51420)
+"GET /scalability/ HTTP/1.1" 200 8069
+- Broken pipe from ('127.0.0.1', 51427)
+"GET /scalability/ HTTP/1.1" 200 7903
+- Broken pipe from ('127.0.0.1', 51428)
+- Broken pipe from ('127.0.0.1', 51429)
+"GET /scalability/ HTTP/1.1" 200 8229
+- Broken pipe from ('127.0.0.1', 51426)
+- Broken pipe from ('127.0.0.1', 51432)
+- Broken pipe from ('127.0.0.1', 51435)
+- Broken pipe from ('127.0.0.1', 51433)
+"GET /scalability/ HTTP/1.1" 200 8397
+- Broken pipe from ('127.0.0.1', 51441)
+- Broken pipe from ('127.0.0.1', 51434)
+"GET /scalability/ HTTP/1.1" 200 8392
+- Broken pipe from ('127.0.0.1', 51448)
+"GET /scalability/ HTTP/1.1" 200 8235
+- Broken pipe from ('127.0.0.1', 51452)
+"POST /save_simulation_results/ HTTP/1.1" 200 64
+- Broken pipe from ('127.0.0.1', 51493)
+"POST /save_simulation_results/ HTTP/1.1" 200 64
+- Broken pipe from ('127.0.0.1', 51501)
+"GET /scalability/ HTTP/1.1" 200 8381
+- Broken pipe from ('127.0.0.1', 51524)
+"GET /scalability/ HTTP/1.1" 200 8038
+- Broken pipe from ('127.0.0.1', 51523)
+"GET /scalability/ HTTP/1.1" 200 8050
+- Broken pipe from ('127.0.0.1', 51525)
+- Broken pipe from ('127.0.0.1', 51530)
+"GET /scalability/ HTTP/1.1" 200 8220
+- Broken pipe from ('127.0.0.1', 51532)
+"GET /scalability/ HTTP/1.1" 200 8044
+- Broken pipe from ('127.0.0.1', 51534)
+- Broken pipe from ('127.0.0.1', 51533)
+"GET /scalability/ HTTP/1.1" 200 8056
+- Broken pipe from ('127.0.0.1', 51535)
+- Broken pipe from ('127.0.0.1', 51550)
+- Broken pipe from ('127.0.0.1', 51557)
+- Broken pipe from ('127.0.0.1', 51566)
+"GET /scalability/ HTTP/1.1" 200 8210
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+- Broken pipe from ('127.0.0.1', 52006)
+- Broken pipe from ('127.0.0.1', 52005)
+- Broken pipe from ('127.0.0.1', 52004)
+- Broken pipe from ('127.0.0.1', 52003)
+"POST /save_simulation_results/ HTTP/1.1" 200 64
+- Broken pipe from ('127.0.0.1', 52020)
+- Broken pipe from ('127.0.0.1', 52017)
+- Broken pipe from ('127.0.0.1', 52018)
+- Broken pipe from ('127.0.0.1', 52019)
+- Broken pipe from ('127.0.0.1', 52039)
+- Broken pipe from ('127.0.0.1', 52038)
+- Broken pipe from ('127.0.0.1', 52040)
+- Broken pipe from ('127.0.0.1', 52037)
+- Broken pipe from ('127.0.0.1', 52053)
+- Broken pipe from ('127.0.0.1', 52054)
+- Broken pipe from ('127.0.0.1', 52056)
+- Broken pipe from ('127.0.0.1', 52062)
+- Broken pipe from ('127.0.0.1', 52060)
+"GET /scalability/ HTTP/1.1" 200 8219
+- Broken pipe from ('127.0.0.1', 52061)
+"GET /scalability/ HTTP/1.1" 200 7889
+- Broken pipe from ('127.0.0.1', 52059)
+- Broken pipe from ('127.0.0.1', 52076)
+- Broken pipe from ('127.0.0.1', 52077)
+"GET /scalability/ HTTP/1.1" 200 7716
+- Broken pipe from ('127.0.0.1', 52078)
+- Broken pipe from ('127.0.0.1', 52079)
+- Broken pipe from ('127.0.0.1', 52084)
+- Broken pipe from ('127.0.0.1', 52085)
+- Broken pipe from ('127.0.0.1', 52086)
+"GET /simulation_results/ HTTP/1.1" 200 2261
+- Broken pipe from ('127.0.0.1', 52090)
+"GET /scalability/ HTTP/1.1" 200 8051
+- Broken pipe from ('127.0.0.1', 52092)
+- Broken pipe from ('127.0.0.1', 52091)
+"GET /scalability/ HTTP/1.1" 200 7863
+- Broken pipe from ('127.0.0.1', 52093)
+"GET /scalability/ HTTP/1.1" 200 8392
+- Broken pipe from ('127.0.0.1', 52099)
+- Broken pipe from ('127.0.0.1', 52109)
+- Broken pipe from ('127.0.0.1', 52100)
+- Broken pipe from ('127.0.0.1', 52102)
+- Broken pipe from ('127.0.0.1', 52107)
+- Broken pipe from ('127.0.0.1', 52110)
+- Broken pipe from ('127.0.0.1', 52101)
+- Broken pipe from ('127.0.0.1', 52108)
+- Broken pipe from ('127.0.0.1', 52123)
+- Broken pipe from ('127.0.0.1', 52124)
+- Broken pipe from ('127.0.0.1', 52122)
+- Broken pipe from ('127.0.0.1', 52126)
+- Broken pipe from ('127.0.0.1', 52131)
+- Broken pipe from ('127.0.0.1', 52128)
+- Broken pipe from ('127.0.0.1', 52129)
+- Broken pipe from ('127.0.0.1', 52130)
+- Broken pipe from ('127.0.0.1', 52136)
+- Broken pipe from ('127.0.0.1', 52139)
+- Broken pipe from ('127.0.0.1', 52137)
+"GET /scalability/ HTTP/1.1" 200 8224
+- Broken pipe from ('127.0.0.1', 52138)
+"GET /simulation_results/ HTTP/1.1" 200 2261
+"GET /scalability/ HTTP/1.1" 200 8052
+- Broken pipe from ('127.0.0.1', 52146)
+- Broken pipe from ('127.0.0.1', 52144)
+- Broken pipe from ('127.0.0.1', 52147)
+- Broken pipe from ('127.0.0.1', 52145)
+- Broken pipe from ('127.0.0.1', 52152)
+- Broken pipe from ('127.0.0.1', 52153)
+- Broken pipe from ('127.0.0.1', 52154)
+- Broken pipe from ('127.0.0.1', 52155)
+"GET /scalability/ HTTP/1.1" 200 8371
+- Broken pipe from ('127.0.0.1', 52306)
+"GET /scalability/ HTTP/1.1" 200 8397
+- Broken pipe from ('127.0.0.1', 52309)
+- Broken pipe from ('127.0.0.1', 52055)
+- Broken pipe from ('127.0.0.1', 52312)
+"GET /scalability/ HTTP/1.1" 200 8380
+- Broken pipe from ('127.0.0.1', 52087)
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+- Broken pipe from ('127.0.0.1', 52427)
+"GET /scalability/ HTTP/1.1" 200 8059
+- Broken pipe from ('127.0.0.1', 52417)
+- Broken pipe from ('127.0.0.1', 52426)
+"GET /scalability/ HTTP/1.1" 200 8218
+- Broken pipe from ('127.0.0.1', 52415)
+- Broken pipe from ('127.0.0.1', 52423)
+"GET /scalability/ HTTP/1.1" 200 8392
+- Broken pipe from ('127.0.0.1', 52429)
+"GET /scalability/ HTTP/1.1" 200 8402
+- Broken pipe from ('127.0.0.1', 52428)
+- Broken pipe from ('127.0.0.1', 52430)
+"GET /scalability/ HTTP/1.1" 200 8388
+- Broken pipe from ('127.0.0.1', 52421)
+"GET /scalability/ HTTP/1.1" 200 8233
+- Broken pipe from ('127.0.0.1', 52419)
+"GET /scalability/ HTTP/1.1" 200 8390
+- Broken pipe from ('127.0.0.1', 52418)
+"GET /scalability/ HTTP/1.1" 200 8228
+- Broken pipe from ('127.0.0.1', 52416)
+"GET /scalability/ HTTP/1.1" 200 8223
+- Broken pipe from ('127.0.0.1', 52434)
+"GET /scalability/ HTTP/1.1" 200 8039
+- Broken pipe from ('127.0.0.1', 52433)
+"GET /scalability/ HTTP/1.1" 200 8222
+- Broken pipe from ('127.0.0.1', 52420)
+"GET /scalability/ HTTP/1.1" 200 8387
+- Broken pipe from ('127.0.0.1', 52432)
+"GET /scalability/ HTTP/1.1" 200 8224
+- Broken pipe from ('127.0.0.1', 52431)
+- Broken pipe from ('127.0.0.1', 52425)
+"GET /scalability/ HTTP/1.1" 200 8072
+- Broken pipe from ('127.0.0.1', 52422)
+"GET /scalability/ HTTP/1.1" 200 8231
+- Broken pipe from ('127.0.0.1', 52424)
+- Broken pipe from ('127.0.0.1', 52480)
+- Broken pipe from ('127.0.0.1', 52513)
+- Broken pipe from ('127.0.0.1', 52490)
+"GET /scalability/ HTTP/1.1" 200 8051
+- Broken pipe from ('127.0.0.1', 52477)
+- Broken pipe from ('127.0.0.1', 52489)
+- Broken pipe from ('127.0.0.1', 52478)
+"POST /save_simulation_results/ HTTP/1.1" 200 64
+"GET /scalability/ HTTP/1.1" 200 8217
+- Broken pipe from ('127.0.0.1', 52492)
+- Broken pipe from ('127.0.0.1', 52493)
+"GET /scalability/ HTTP/1.1" 200 8395
+- Broken pipe from ('127.0.0.1', 52484)
+- Broken pipe from ('127.0.0.1', 52487)
+- Broken pipe from ('127.0.0.1', 52511)
+"GET /scalability/ HTTP/1.1" 200 8054
+- Broken pipe from ('127.0.0.1', 52479)
+- Broken pipe from ('127.0.0.1', 52488)
+"GET /scalability/ HTTP/1.1" 200 8209
+- Broken pipe from ('127.0.0.1', 52483)
+"GET /scalability/ HTTP/1.1" 200 8231
+- Broken pipe from ('127.0.0.1', 52486)
+"GET /scalability/ HTTP/1.1" 200 8052
+- Broken pipe from ('127.0.0.1', 52482)
+"GET /scalability/ HTTP/1.1" 200 7727
+- Broken pipe from ('127.0.0.1', 52491)
+- Broken pipe from ('127.0.0.1', 52485)
+- Broken pipe from ('127.0.0.1', 52481)
+"GET /scalability/ HTTP/1.1" 200 8230
+- Broken pipe from ('127.0.0.1', 52512)
+"GET /simulation_results/ HTTP/1.1" 200 1510
+- Broken pipe from ('127.0.0.1', 52573)
+- Broken pipe from ('127.0.0.1', 52545)
+- Broken pipe from ('127.0.0.1', 52575)
+- Broken pipe from ('127.0.0.1', 52554)
+- Broken pipe from ('127.0.0.1', 52555)
+- Broken pipe from ('127.0.0.1', 52552)
+"GET /scalability/ HTTP/1.1" 200 8229
+- Broken pipe from ('127.0.0.1', 52550)
+- Broken pipe from ('127.0.0.1', 52539)
+"GET /scalability/ HTTP/1.1" 200 8222
+- Broken pipe from ('127.0.0.1', 52548)
+"GET /scalability/ HTTP/1.1" 200 8054
+- Broken pipe from ('127.0.0.1', 52541)
+"GET /scalability/ HTTP/1.1" 200 8227
+- Broken pipe from ('127.0.0.1', 52543)
+- Broken pipe from ('127.0.0.1', 52542)
+- Broken pipe from ('127.0.0.1', 52553)
+"GET /scalability/ HTTP/1.1" 200 8055
+- Broken pipe from ('127.0.0.1', 52574)
+"GET /scalability/ HTTP/1.1" 200 8058
+- Broken pipe from ('127.0.0.1', 52547)
+- Broken pipe from ('127.0.0.1', 52546)
+- Broken pipe from ('127.0.0.1', 52551)
+- Broken pipe from ('127.0.0.1', 52540)
+- Broken pipe from ('127.0.0.1', 52549)
+"GET /scalability/ HTTP/1.1" 200 8054
+- Broken pipe from ('127.0.0.1', 52544)
+"GET /scalability/ HTTP/1.1" 200 8050
+- Broken pipe from ('127.0.0.1', 52933)
+- Broken pipe from ('127.0.0.1', 52938)
+- Broken pipe from ('127.0.0.1', 52946)
+"GET /scalability/ HTTP/1.1" 200 8220
+"GET /simulation_results/ HTTP/1.1" 200 1510
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+- Broken pipe from ('127.0.0.1', 54677)
+- Broken pipe from ('127.0.0.1', 54684)
+- Broken pipe from ('127.0.0.1', 54689)
+"GET /scalability/ HTTP/1.1" 200 8221
+"GET /scalability/ HTTP/1.1" 200 8216
+"GET /scalability/ HTTP/1.1" 200 8381
+"GET /scalability/ HTTP/1.1" 200 8050
+"GET /scalability/ HTTP/1.1" 200 7886
+"GET /scalability/ HTTP/1.1" 200 8391
+"GET /scalability/ HTTP/1.1" 200 8224
+"GET /scalability/ HTTP/1.1" 200 8223
+"GET /scalability/ HTTP/1.1" 200 7871
+"GET /scalability/ HTTP/1.1" 200 8048
+"GET /scalability/ HTTP/1.1" 200 8212
+"GET /scalability/ HTTP/1.1" 200 8208
+"GET /scalability/ HTTP/1.1" 200 8219
+"GET /scalability/ HTTP/1.1" 200 8221
+"POST /save_simulation_results/ HTTP/1.1" 200 64
+"GET /simulation_results/ HTTP/1.1" 200 1817
+"GET /scalability/ HTTP/1.1" 200 7888
+"GET /scalability/ HTTP/1.1" 200 8215
+"GET /scalability/ HTTP/1.1" 200 8052
+"GET /scalability/ HTTP/1.1" 200 8232
+"GET /scalability/ HTTP/1.1" 200 7891
+"GET /scalability/ HTTP/1.1" 200 8218
+"GET /scalability/ HTTP/1.1" 200 8385
+"GET /scalability/ HTTP/1.1" 200 8364
+"GET /simulation_results/ HTTP/1.1" 200 1817
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /scalability/ HTTP/1.1" 200 8388
+"GET /scalability/ HTTP/1.1" 200 8052
+"GET /scalability/ HTTP/1.1" 200 8218
+"GET /scalability/ HTTP/1.1" 200 7707
+"GET /scalability/ HTTP/1.1" 200 8224
+"GET /scalability/ HTTP/1.1" 200 8219
+"GET /scalability/ HTTP/1.1" 200 7718
+"GET /scalability/ HTTP/1.1" 200 8221
+"GET /scalability/ HTTP/1.1" 200 8390
+"GET /scalability/ HTTP/1.1" 200 8227
+"GET /scalability/ HTTP/1.1" 200 8220
+"GET /scalability/ HTTP/1.1" 200 8223
+"GET /scalability/ HTTP/1.1" 200 8067
+"GET /scalability/ HTTP/1.1" 200 8056
+"GET /scalability/ HTTP/1.1" 200 8048
+"GET /scalability/ HTTP/1.1" 200 8026
+"GET /scalability/ HTTP/1.1" 200 8232
+"GET /scalability/ HTTP/1.1" 200 8053
+"GET /scalability/ HTTP/1.1" 200 8395
+"GET /scalability/ HTTP/1.1" 200 8233
+"POST /save_simulation_results/ HTTP/1.1" 200 64
+"GET /scalability/ HTTP/1.1" 200 8028
+"GET /scalability/ HTTP/1.1" 200 7875
+"GET /simulation_results/ HTTP/1.1" 200 1509
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /scalability/ HTTP/1.1" 200 8061
+"GET /scalability/ HTTP/1.1" 200 8227
+"GET /scalability/ HTTP/1.1" 200 8058
+"GET /scalability/ HTTP/1.1" 200 8054
+"GET /scalability/ HTTP/1.1" 200 8040
+"GET /scalability/ HTTP/1.1" 200 7888
+"GET /scalability/ HTTP/1.1" 200 8068
+"GET /scalability/ HTTP/1.1" 200 7713
+"GET /scalability/ HTTP/1.1" 200 8054
+"GET /scalability/ HTTP/1.1" 200 8052
+"GET /scalability/ HTTP/1.1" 200 7880
+"GET /scalability/ HTTP/1.1" 200 8052
+"GET /scalability/ HTTP/1.1" 200 8217
+"GET /scalability/ HTTP/1.1" 200 8383
+"GET /scalability/ HTTP/1.1" 200 7712
+"GET /scalability/ HTTP/1.1" 200 8398
+"GET /scalability/ HTTP/1.1" 200 8225
+"GET /scalability/ HTTP/1.1" 200 8230
+"GET /scalability/ HTTP/1.1" 200 8230
+"GET /scalability/ HTTP/1.1" 200 8219
+"POST /save_simulation_results/ HTTP/1.1" 200 64
+"GET /simulation_results/ HTTP/1.1" 200 1515
+"GET /scalability/ HTTP/1.1" 200 7881
+"GET /scalability/ HTTP/1.1" 200 8052
+"GET /scalability/ HTTP/1.1" 200 8388
+"GET /scalability/ HTTP/1.1" 200 8054
+"GET /scalability/ HTTP/1.1" 200 8223
+"GET /scalability/ HTTP/1.1" 200 8053
+"GET /scalability/ HTTP/1.1" 200 8197
+"GET /scalability/ HTTP/1.1" 200 8234
+"GET /scalability/ HTTP/1.1" 200 8053
+"GET /scalability/ HTTP/1.1" 200 7895
+"GET /scalability/ HTTP/1.1" 200 8055
+"GET /scalability/ HTTP/1.1" 200 8054
+"GET /scalability/ HTTP/1.1" 200 7876
+"GET /scalability/ HTTP/1.1" 200 8219
+"GET /scalability/ HTTP/1.1" 200 8056
+"GET /scalability/ HTTP/1.1" 200 8224
+"GET /scalability/ HTTP/1.1" 200 8037
+- Broken pipe from ('127.0.0.1', 58590)
+- Broken pipe from ('127.0.0.1', 58597)
+- Broken pipe from ('127.0.0.1', 58584)
+"GET /scalability/ HTTP/1.1" 200 8050
+"GET /scalability/ HTTP/1.1" 200 8224
+"GET /scalability/ HTTP/1.1" 200 8377
+"GET /scalability/ HTTP/1.1" 200 7882
+"GET /scalability/ HTTP/1.1" 200 8214
+"GET /scalability/ HTTP/1.1" 200 8051
+"GET /scalability/ HTTP/1.1" 200 8063
+"GET /scalability/ HTTP/1.1" 200 7887
+"GET /scalability/ HTTP/1.1" 200 8223
+"GET /scalability/ HTTP/1.1" 200 7886
+"GET /scalability/ HTTP/1.1" 200 8386
+"GET /scalability/ HTTP/1.1" 200 8058
+"GET /scalability/ HTTP/1.1" 200 7875
+"GET /scalability/ HTTP/1.1" 200 8219
+"GET /scalability/ HTTP/1.1" 200 8231
+"GET /scalability/ HTTP/1.1" 200 8059
+"GET /scalability/ HTTP/1.1" 200 8053
+"GET /scalability/ HTTP/1.1" 200 8394
+"GET /scalability/ HTTP/1.1" 200 7888
+"GET /scalability/ HTTP/1.1" 200 8394
+"GET /scalability/ HTTP/1.1" 200 8370
+"GET /scalability/ HTTP/1.1" 200 7895
+"GET /scalability/ HTTP/1.1" 200 8218
+"GET /scalability/ HTTP/1.1" 200 8214
+"GET /scalability/ HTTP/1.1" 200 8219
+"GET /scalability/ HTTP/1.1" 200 8229
+"GET /scalability/ HTTP/1.1" 200 8057
+"GET /scalability/ HTTP/1.1" 200 8055
+"GET /scalability/ HTTP/1.1" 200 8056
+"GET /scalability/ HTTP/1.1" 200 8216
+"GET /scalability/ HTTP/1.1" 200 7890
+"GET /scalability/ HTTP/1.1" 200 8061
+"GET /scalability/ HTTP/1.1" 200 7884
+"GET /scalability/ HTTP/1.1" 200 8226
+"GET /scalability/ HTTP/1.1" 200 8384
+"GET /scalability/ HTTP/1.1" 200 7719
+"GET /scalability/ HTTP/1.1" 200 8048
+"GET /scalability/ HTTP/1.1" 200 8214
+"GET /scalability/ HTTP/1.1" 200 8216
+- Broken pipe from ('127.0.0.1', 58651)
+"GET /scalability/ HTTP/1.1" 200 8389
+"GET /scalability/ HTTP/1.1" 200 8045
+"GET /scalability/ HTTP/1.1" 200 8050
+"GET /scalability/ HTTP/1.1" 200 8384
+"GET /scalability/ HTTP/1.1" 200 8216
+- Broken pipe from ('127.0.0.1', 58666)
+"GET /scalability/ HTTP/1.1" 200 8216
+- Broken pipe from ('127.0.0.1', 58669)
+- Broken pipe from ('127.0.0.1', 58671)
+- Broken pipe from ('127.0.0.1', 58668)
+"GET /scalability/ HTTP/1.1" 200 8052
+- Broken pipe from ('127.0.0.1', 58674)
+"GET /scalability/ HTTP/1.1" 200 8216
+"GET /scalability/ HTTP/1.1" 200 8221
+"GET /scalability/ HTTP/1.1" 200 8062
+- Broken pipe from ('127.0.0.1', 58677)
+- Broken pipe from ('127.0.0.1', 58682)
+"GET /scalability/ HTTP/1.1" 200 8218
+- Broken pipe from ('127.0.0.1', 58697)
+- Broken pipe from ('127.0.0.1', 58692)
+- Broken pipe from ('127.0.0.1', 58694)
+"POST /save_simulation_results/ HTTP/1.1" 200 64
+- Broken pipe from ('127.0.0.1', 58698)
+Not Found: /query_simulation_results/
+"GET /query_simulation_results/ HTTP/1.1" 404 3242
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/backend/urls.py changed, reloading.
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/backend/urls.py changed, reloading.
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/backend/urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /scalability/ HTTP/1.1" 200 8056
+"GET /scalability/ HTTP/1.1" 200 8216
+"GET /scalability/ HTTP/1.1" 200 8048
+"GET /scalability/ HTTP/1.1" 200 8052
+"GET /scalability/ HTTP/1.1" 200 8222
+"GET /scalability/ HTTP/1.1" 200 7892
+"GET /scalability/ HTTP/1.1" 200 7715
+"GET /scalability/ HTTP/1.1" 200 7892
+"GET /scalability/ HTTP/1.1" 200 8390
+"GET /scalability/ HTTP/1.1" 200 7882
+"GET /scalability/ HTTP/1.1" 200 8216
+"GET /scalability/ HTTP/1.1" 200 8053
+"GET /scalability/ HTTP/1.1" 200 8393
+"GET /scalability/ HTTP/1.1" 200 7889
+"GET /scalability/ HTTP/1.1" 200 8059
+"GET /scalability/ HTTP/1.1" 200 8052
+"GET /scalability/ HTTP/1.1" 200 8391
+"GET /scalability/ HTTP/1.1" 200 7880
+"GET /scalability/ HTTP/1.1" 200 8220
+"GET /scalability/ HTTP/1.1" 200 8397
+"POST /save_simulation_results/ HTTP/1.1" 200 64
+"GET /simulation_results/ HTTP/1.1" 200 1513
+"GET /scalability/ HTTP/1.1" 200 8066
+"GET /scalability/ HTTP/1.1" 200 8231
+"GET /scalability/ HTTP/1.1" 200 8055
+"GET /scalability/ HTTP/1.1" 200 8230
+"GET /scalability/ HTTP/1.1" 200 7906
+"GET /scalability/ HTTP/1.1" 200 8232
+"GET /scalability/ HTTP/1.1" 200 7894
+"GET /scalability/ HTTP/1.1" 200 8246
+"GET /scalability/ HTTP/1.1" 200 7899
+"GET /scalability/ HTTP/1.1" 200 8073
+"GET /scalability/ HTTP/1.1" 200 7739
+"GET /scalability/ HTTP/1.1" 200 8221
+"GET /scalability/ HTTP/1.1" 200 8075
+"GET /scalability/ HTTP/1.1" 200 8065
+"GET /scalability/ HTTP/1.1" 200 8061
+"GET /scalability/ HTTP/1.1" 200 8412
+"GET /scalability/ HTTP/1.1" 200 8418
+"GET /scalability/ HTTP/1.1" 200 8072
+"GET /scalability/ HTTP/1.1" 200 8073
+"GET /scalability/ HTTP/1.1" 200 8068
+"GET /scalability/ HTTP/1.1" 200 8069
+"GET /scalability/ HTTP/1.1" 200 7723
+"GET /scalability/ HTTP/1.1" 200 8055
+"GET /scalability/ HTTP/1.1" 200 8047
+"GET /scalability/ HTTP/1.1" 200 8055
+"GET /scalability/ HTTP/1.1" 200 8219
+"GET /scalability/ HTTP/1.1" 200 8066
+"GET /scalability/ HTTP/1.1" 200 7889
+"GET /scalability/ HTTP/1.1" 200 8382
+"GET /scalability/ HTTP/1.1" 200 8060
+"GET /scalability/ HTTP/1.1" 200 8236
+"GET /scalability/ HTTP/1.1" 200 7884
+"GET /scalability/ HTTP/1.1" 200 7899
+"GET /scalability/ HTTP/1.1" 200 8060
+"GET /scalability/ HTTP/1.1" 200 8063
+"GET /scalability/ HTTP/1.1" 200 8062
+"GET /scalability/ HTTP/1.1" 200 8230
+"GET /scalability/ HTTP/1.1" 200 7727
+"GET /scalability/ HTTP/1.1" 200 8223
+"GET /scalability/ HTTP/1.1" 200 8238
+"GET /scalability/ HTTP/1.1" 200 7890
+"GET /scalability/ HTTP/1.1" 200 8226
+"GET /scalability/ HTTP/1.1" 200 7898
+"GET /scalability/ HTTP/1.1" 200 8229
+"GET /scalability/ HTTP/1.1" 200 8226
+"GET /scalability/ HTTP/1.1" 200 7878
+"GET /scalability/ HTTP/1.1" 200 8058
+"GET /scalability/ HTTP/1.1" 200 8055
+"GET /scalability/ HTTP/1.1" 200 8057
+"GET /scalability/ HTTP/1.1" 200 8393
+"GET /scalability/ HTTP/1.1" 200 7883
+"GET /scalability/ HTTP/1.1" 200 8398
+"GET /scalability/ HTTP/1.1" 200 8225
+"GET /scalability/ HTTP/1.1" 200 8213
+"GET /scalability/ HTTP/1.1" 200 8227
+"GET /scalability/ HTTP/1.1" 200 8228
+"GET /scalability/ HTTP/1.1" 200 8230
+"GET /scalability/ HTTP/1.1" 200 8216
+"GET /scalability/ HTTP/1.1" 200 8229
+"GET /scalability/ HTTP/1.1" 200 8213
+"GET /scalability/ HTTP/1.1" 200 8380
+"GET /scalability/ HTTP/1.1" 200 8223
+"GET /scalability/ HTTP/1.1" 200 7880
+"GET /scalability/ HTTP/1.1" 200 8051
+"GET /scalability/ HTTP/1.1" 200 8053
+"GET /scalability/ HTTP/1.1" 200 7896
+"GET /scalability/ HTTP/1.1" 200 8396
+"GET /scalability/ HTTP/1.1" 200 7893
+"GET /scalability/ HTTP/1.1" 200 8050
+"GET /scalability/ HTTP/1.1" 200 7706
+"GET /scalability/ HTTP/1.1" 200 8220
+"GET /scalability/ HTTP/1.1" 200 8212
+"GET /scalability/ HTTP/1.1" 200 8219
+"GET /scalability/ HTTP/1.1" 200 8214
+"GET /scalability/ HTTP/1.1" 200 8219
+"GET /scalability/ HTTP/1.1" 200 8231
+"GET /scalability/ HTTP/1.1" 200 8045
+"GET /scalability/ HTTP/1.1" 200 7884
+"GET /scalability/ HTTP/1.1" 200 8220
+"POST /save_simulation_results/ HTTP/1.1" 200 64
+"GET /get_query_simulation_results/ HTTP/1.1" 200 2
+"GET /get_query_simulation_results/ HTTP/1.1" 200 2
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /scalability/ HTTP/1.1" 200 8391
+"GET /scalability/ HTTP/1.1" 200 8055
+"GET /scalability/ HTTP/1.1" 200 8216
+"GET /scalability/ HTTP/1.1" 200 8221
+"GET /scalability/ HTTP/1.1" 200 8044
+"GET /scalability/ HTTP/1.1" 200 8213
+"GET /scalability/ HTTP/1.1" 200 8395
+"GET /scalability/ HTTP/1.1" 200 8058
+"GET /scalability/ HTTP/1.1" 200 7890
+"GET /scalability/ HTTP/1.1" 200 7885
+"GET /scalability/ HTTP/1.1" 200 8055
+"GET /scalability/ HTTP/1.1" 200 8391
+"GET /scalability/ HTTP/1.1" 200 8052
+"GET /scalability/ HTTP/1.1" 200 8058
+"GET /scalability/ HTTP/1.1" 200 7895
+"GET /scalability/ HTTP/1.1" 200 7723
+"GET /scalability/ HTTP/1.1" 200 8231
+"GET /scalability/ HTTP/1.1" 200 8063
+"GET /scalability/ HTTP/1.1" 200 8226
+"GET /scalability/ HTTP/1.1" 200 8228
+"POST /save_simulation_results/ HTTP/1.1" 200 64
+"GET /simulation_results/ HTTP/1.1" 200 1512
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+"POST /save_simulation_results/ HTTP/1.1" 200 64
+"GET /get_query_simulation_results/ HTTP/1.1" 200 2
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /scalability/ HTTP/1.1" 200 8055
+"GET /scalability/ HTTP/1.1" 200 8222
+"GET /scalability/ HTTP/1.1" 200 8220
+"GET /scalability/ HTTP/1.1" 200 8216
+"GET /scalability/ HTTP/1.1" 200 8233
+"GET /scalability/ HTTP/1.1" 200 8054
+"GET /scalability/ HTTP/1.1" 200 7887
+"GET /scalability/ HTTP/1.1" 200 8061
+"GET /scalability/ HTTP/1.1" 200 8052
+"GET /scalability/ HTTP/1.1" 200 8050
+"GET /scalability/ HTTP/1.1" 200 8061
+"GET /scalability/ HTTP/1.1" 200 8387
+"GET /scalability/ HTTP/1.1" 200 8051
+"GET /scalability/ HTTP/1.1" 200 8231
+"GET /scalability/ HTTP/1.1" 200 8217
+"GET /scalability/ HTTP/1.1" 200 8050
+"GET /scalability/ HTTP/1.1" 200 8057
+"GET /scalability/ HTTP/1.1" 200 8062
+"GET /scalability/ HTTP/1.1" 200 8056
+"POST /save_simulation_results/ HTTP/1.1" 200 64
+"GET /scalability/ HTTP/1.1" 200 8374
+"GET /simulation_results/ HTTP/1.1" 200 1553
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+Forbidden (CSRF cookie not set.): /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 403 2855
+"POST /save_query_simulation_results/ HTTP/1.1" 200 87
+"GET /get_query_simulation_results/ HTTP/1.1" 200 12823
+- Broken pipe from ('127.0.0.1', 60532)
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/backend/urls.py changed, reloading.
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/backend/urls.py changed, reloading.
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/backend/urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/backend/urls.py changed, reloading.
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/backend/urls.py changed, reloading.
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/backend/urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /scalability/ HTTP/1.1" 200 8395
+"GET /scalability/ HTTP/1.1" 200 7897
+"GET /scalability/ HTTP/1.1" 200 8239
+"GET /scalability/ HTTP/1.1" 200 7723
+"GET /scalability/ HTTP/1.1" 200 8239
+"GET /scalability/ HTTP/1.1" 200 8051
+"GET /scalability/ HTTP/1.1" 200 8218
+"GET /scalability/ HTTP/1.1" 200 8056
+"GET /scalability/ HTTP/1.1" 200 8225
+"GET /scalability/ HTTP/1.1" 200 8394
+"GET /scalability/ HTTP/1.1" 200 8215
+"GET /scalability/ HTTP/1.1" 200 8228
+"GET /scalability/ HTTP/1.1" 200 8064
+"GET /scalability/ HTTP/1.1" 200 8226
+"GET /scalability/ HTTP/1.1" 200 8232
+"GET /scalability/ HTTP/1.1" 200 8057
+"GET /scalability/ HTTP/1.1" 200 8394
+"GET /scalability/ HTTP/1.1" 200 8229
+"GET /scalability/ HTTP/1.1" 200 8050
+"GET /scalability/ HTTP/1.1" 200 8051
+"POST /save_simulation_results/ HTTP/1.1" 200 64
+"GET /simulation_results/ HTTP/1.1" 200 1509
+Not Found: /execute_bigquery/
+Not Found: /execute_bigquery/
+Not Found: /execute_bigquery/
+Not Found: /execute_bigquery/
+Not Found: /execute_bigquery/
+Not Found: /execute_bigquery/
+Not Found: /execute_bigquery/
+Not Found: /execute_bigquery/
+Not Found: /execute_bigquery/
+Not Found: /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+Not Found: /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+Not Found: /execute_bigquery/
+Not Found: /execute_bigquery/
+Not Found: /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+Not Found: /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+Not Found: /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+Not Found: /execute_bigquery/
+Not Found: /execute_bigquery/
+Not Found: /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+Not Found: /execute_bigquery/
+Not Found: /execute_bigquery/
+Not Found: /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+Not Found: /execute_bigquery/
+Not Found: /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+Not Found: /execute_bigquery/
+Not Found: /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+Not Found: /execute_bigquery/
+Not Found: /execute_bigquery/
+Not Found: /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+Not Found: /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+Not Found: /execute_bigquery/
+Not Found: /execute_bigquery/
+Not Found: /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+Not Found: /execute_bigquery/
+Not Found: /execute_bigquery/
+Not Found: /execute_bigquery/
+Not Found: /execute_bigquery/
+Not Found: /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+Not Found: /execute_bigquery/
+Not Found: /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+Not Found: /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+Not Found: /execute_bigquery/
+Not Found: /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+Not Found: /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+Not Found: /execute_bigquery/
+Not Found: /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+Not Found: /execute_bigquery/
+Not Found: /execute_bigquery/
+Not Found: /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+Not Found: /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+Not Found: /execute_bigquery/
+Not Found: /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+Not Found: /execute_bigquery/
+Not Found: /execute_bigquery/
+Not Found: /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+Not Found: /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+Not Found: /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+Not Found: /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+Not Found: /execute_bigquery/
+Not Found: /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+Not Found: /execute_bigquery/
+Not Found: /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+Not Found: /execute_bigquery/
+Not Found: /execute_bigquery/
+Not Found: /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+Not Found: /execute_bigquery/
+Not Found: /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+Not Found: /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+Not Found: /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+Not Found: /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+Not Found: /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+Not Found: /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+Not Found: /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+Not Found: /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+Not Found: /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+Not Found: /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+Not Found: /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+Not Found: /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+Not Found: /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+"POST /save_query_simulation_results/ HTTP/1.1" 200 87
+"GET /get_query_simulation_results/ HTTP/1.1" 200 12668
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /scalability/ HTTP/1.1" 200 7882
+"GET /scalability/ HTTP/1.1" 200 8045
+"GET /scalability/ HTTP/1.1" 200 8059
+"GET /scalability/ HTTP/1.1" 200 7729
+"GET /scalability/ HTTP/1.1" 200 8058
+"GET /scalability/ HTTP/1.1" 200 8055
+"GET /scalability/ HTTP/1.1" 200 8052
+"GET /scalability/ HTTP/1.1" 200 8390
+"GET /scalability/ HTTP/1.1" 200 7888
+"GET /scalability/ HTTP/1.1" 200 7880
+"GET /scalability/ HTTP/1.1" 200 8065
+"GET /scalability/ HTTP/1.1" 200 8216
+"GET /scalability/ HTTP/1.1" 200 8050
+"GET /scalability/ HTTP/1.1" 200 8219
+"GET /scalability/ HTTP/1.1" 200 8050
+"GET /scalability/ HTTP/1.1" 200 8064
+"GET /scalability/ HTTP/1.1" 200 8041
+"GET /scalability/ HTTP/1.1" 200 8387
+"GET /scalability/ HTTP/1.1" 200 8392
+"GET /scalability/ HTTP/1.1" 200 8050
+"POST /save_simulation_results/ HTTP/1.1" 200 64
+"GET /simulation_results/ HTTP/1.1" 200 1513
+Not Found: /execute_bigquery/
+Not Found: /execute_bigquery/
+Not Found: /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+Not Found: /execute_bigquery/
+Not Found: /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+Not Found: /execute_bigquery/
+Not Found: /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+Not Found: /execute_bigquery/
+Not Found: /execute_bigquery/
+Not Found: /execute_bigquery/
+Not Found: /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+Not Found: /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+Not Found: /execute_bigquery/
+Not Found: /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+Not Found: /execute_bigquery/
+Not Found: /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+Not Found: /execute_bigquery/
+Not Found: /execute_bigquery/
+Not Found: /execute_bigquery/
+Not Found: /execute_bigquery/
+Not Found: /execute_bigquery/
+Not Found: /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+Not Found: /execute_bigquery/
+Not Found: /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+Not Found: /execute_bigquery/
+Not Found: /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+Not Found: /execute_bigquery/
+Not Found: /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+Not Found: /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+Not Found: /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+Not Found: /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+Not Found: /execute_bigquery/
+Not Found: /execute_bigquery/
+Not Found: /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+Not Found: /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+Not Found: /execute_bigquery/
+Not Found: /execute_bigquery/
+Not Found: /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+Not Found: /execute_bigquery/
+Not Found: /execute_bigquery/
+Not Found: /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+Not Found: /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+Not Found: /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+Not Found: /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+Not Found: /execute_bigquery/
+Not Found: /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+Not Found: /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+Not Found: /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+Not Found: /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+Not Found: /execute_bigquery/
+Not Found: /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+Not Found: /execute_bigquery/
+Not Found: /execute_bigquery/
+Not Found: /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+Not Found: /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+Not Found: /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+Not Found: /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+Not Found: /execute_bigquery/
+Not Found: /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+Not Found: /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+Not Found: /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+Not Found: /execute_bigquery/
+Not Found: /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+Not Found: /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+Not Found: /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+Not Found: /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+Not Found: /execute_bigquery/
+Not Found: /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+Not Found: /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+Not Found: /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+Not Found: /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+Not Found: /execute_bigquery/
+Not Found: /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+Not Found: /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+Not Found: /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+Not Found: /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+Not Found: /execute_bigquery/
+Not Found: /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+Not Found: /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 404 3219
+"POST /save_query_simulation_results/ HTTP/1.1" 200 87
+"GET /get_query_simulation_results/ HTTP/1.1" 200 15582
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/backend/urls.py changed, reloading.
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/backend/urls.py changed, reloading.
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/backend/urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/backend/urls.py changed, reloading.
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/backend/urls.py changed, reloading.
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/backend/urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/backend/urls.py changed, reloading.
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/backend/urls.py changed, reloading.
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/backend/urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"POST /save_simulation_results/ HTTP/1.1" 200 64
+"GET /simulation_results/ HTTP/1.1" 200 2281
+"GET /simulation_results/ HTTP/1.1" 200 2281
+"POST /save_query_simulation_results/ HTTP/1.1" 200 87
+"GET /get_query_simulation_results/ HTTP/1.1" 200 20836
+"POST /save_simulation_results/ HTTP/1.1" 200 64
+"GET /simulation_results/ HTTP/1.1" 200 2281
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/backend/urls.py changed, reloading.
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/backend/urls.py changed, reloading.
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/backend/urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/backend/urls.py changed, reloading.
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/backend/urls.py changed, reloading.
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/backend/urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/backend/urls.py changed, reloading.
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/backend/urls.py changed, reloading.
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/backend/urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/backend/urls.py changed, reloading.
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/backend/urls.py changed, reloading.
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/backend/urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"POST /save_simulation_results/ HTTP/1.1" 200 64
+"GET /simulation_results/ HTTP/1.1" 200 2281
+"GET /scalability/ HTTP/1.1" 200 7896
+"GET /scalability/ HTTP/1.1" 200 8056
+"GET /scalability/ HTTP/1.1" 200 8220
+"GET /scalability/ HTTP/1.1" 200 8218
+"GET /scalability/ HTTP/1.1" 200 7727
+"GET /scalability/ HTTP/1.1" 200 7888
+"GET /scalability/ HTTP/1.1" 200 7898
+"GET /scalability/ HTTP/1.1" 200 7889
+"GET /scalability/ HTTP/1.1" 200 8038
+- Broken pipe from ('127.0.0.1', 64060)
+"GET /scalability/ HTTP/1.1" 200 8050
+- Broken pipe from ('127.0.0.1', 64057)
+- Broken pipe from ('127.0.0.1', 64063)
+"GET /scalability/ HTTP/1.1" 200 8217
+- Broken pipe from ('127.0.0.1', 64068)
+"GET /scalability/ HTTP/1.1" 200 7886
+- Broken pipe from ('127.0.0.1', 64062)
+- Broken pipe from ('127.0.0.1', 64065)
+- Broken pipe from ('127.0.0.1', 64059)
+- Broken pipe from ('127.0.0.1', 64061)
+- Broken pipe from ('127.0.0.1', 64066)
+"GET /scalability/ HTTP/1.1" 200 7895
+"GET /scalability/ HTTP/1.1" 200 8060
+"GET /scalability/ HTTP/1.1" 200 7897
+"GET /scalability/ HTTP/1.1" 200 7883
+"GET /scalability/ HTTP/1.1" 200 7886
+"GET /scalability/ HTTP/1.1" 200 8213
+"GET /scalability/ HTTP/1.1" 200 8055
+"GET /scalability/ HTTP/1.1" 200 8038
+"GET /scalability/ HTTP/1.1" 200 8389
+"GET /scalability/ HTTP/1.1" 200 8051
+- Broken pipe from ('127.0.0.1', 64056)
+"GET /scalability/ HTTP/1.1" 200 8057
+- Broken pipe from ('127.0.0.1', 64054)
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /scalability/ HTTP/1.1" 200 8198
+"GET /scalability/ HTTP/1.1" 200 7880
+"GET /scalability/ HTTP/1.1" 200 8053
+"GET /scalability/ HTTP/1.1" 200 8054
+"GET /scalability/ HTTP/1.1" 200 8383
+"GET /scalability/ HTTP/1.1" 200 8213
+"GET /scalability/ HTTP/1.1" 200 8227
+"GET /scalability/ HTTP/1.1" 200 8233
+"GET /scalability/ HTTP/1.1" 200 8213
+"GET /scalability/ HTTP/1.1" 200 8222
+"GET /scalability/ HTTP/1.1" 200 8384
+"GET /scalability/ HTTP/1.1" 200 8060
+"GET /scalability/ HTTP/1.1" 200 8052
+"GET /scalability/ HTTP/1.1" 200 8051
+"GET /scalability/ HTTP/1.1" 200 8230
+"GET /scalability/ HTTP/1.1" 200 8059
+"GET /scalability/ HTTP/1.1" 200 8222
+"GET /scalability/ HTTP/1.1" 200 8227
+"GET /scalability/ HTTP/1.1" 200 7879
+"GET /scalability/ HTTP/1.1" 200 8055
+"GET /scalability/ HTTP/1.1" 200 8221
+"GET /scalability/ HTTP/1.1" 200 8059
+"POST /save_simulation_results/ HTTP/1.1" 200 64
+"GET /simulation_results/ HTTP/1.1" 200 1512
+"GET /simulation_results/ HTTP/1.1" 200 1512
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/backend/urls.py changed, reloading.
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/backend/urls.py changed, reloading.
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/backend/urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/backend/urls.py changed, reloading.
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/backend/urls.py changed, reloading.
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/backend/urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/backend/urls.py changed, reloading.
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/backend/urls.py changed, reloading.
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/backend/urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/backend/urls.py changed, reloading.
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/backend/urls.py changed, reloading.
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/backend/urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/backend/urls.py changed, reloading.
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/backend/urls.py changed, reloading.
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/backend/urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/backend/urls.py changed, reloading.
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/backend/urls.py changed, reloading.
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/backend/urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/backend/urls.py changed, reloading.
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/backend/urls.py changed, reloading.
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/backend/urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /scalability/ HTTP/1.1" 200 8046
+"GET /scalability/ HTTP/1.1" 200 8051
+"GET /scalability/ HTTP/1.1" 200 8222
+"GET /scalability/ HTTP/1.1" 200 8219
+"GET /scalability/ HTTP/1.1" 200 8398
+"GET /scalability/ HTTP/1.1" 200 7905
+"GET /scalability/ HTTP/1.1" 200 7889
+"GET /scalability/ HTTP/1.1" 200 8052
+"GET /scalability/ HTTP/1.1" 200 8226
+"GET /scalability/ HTTP/1.1" 200 8226
+"GET /scalability/ HTTP/1.1" 200 8070
+"GET /scalability/ HTTP/1.1" 200 8049
+"GET /scalability/ HTTP/1.1" 200 8231
+"GET /scalability/ HTTP/1.1" 200 8229
+"GET /scalability/ HTTP/1.1" 200 8066
+"GET /scalability/ HTTP/1.1" 200 8218
+"GET /scalability/ HTTP/1.1" 200 8066
+"GET /scalability/ HTTP/1.1" 200 7884
+"GET /scalability/ HTTP/1.1" 200 8230
+"GET /scalability/ HTTP/1.1" 200 8062
+"GET /scalability/ HTTP/1.1" 200 8395
+"GET /scalability/ HTTP/1.1" 200 8069
+"POST /save_simulation_results/ HTTP/1.1" 200 64
+"GET /simulation_results/ HTTP/1.1" 200 1516
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"GET /simulation_results/ HTTP/1.1" 200 1516
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 200 63
+"GET /query_simulation_results HTTP/1.1" 301 0
+Not Found: /get_query_simulation_results/
+"GET /get_query_simulation_results/ HTTP/1.1" 404 3230
+"GET /query_simulation_results/ HTTP/1.1" 200 58105
+"GET /query_simulation_results/ HTTP/1.1" 200 58105
+"GET /query_simulation_results/ HTTP/1.1" 200 58105
+"GET /query_simulation_results/ HTTP/1.1" 200 58105
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /scalability/ HTTP/1.1" 200 7887
+"GET /scalability/ HTTP/1.1" 200 8046
+"GET /scalability/ HTTP/1.1" 200 7881
+"GET /scalability/ HTTP/1.1" 200 8378
+"GET /scalability/ HTTP/1.1" 200 8222
+"GET /scalability/ HTTP/1.1" 200 7881
+"GET /scalability/ HTTP/1.1" 200 7880
+"GET /scalability/ HTTP/1.1" 200 7728
+"GET /scalability/ HTTP/1.1" 200 8212
+"GET /scalability/ HTTP/1.1" 200 7890
+"GET /scalability/ HTTP/1.1" 200 8397
+"GET /scalability/ HTTP/1.1" 200 8215
+"GET /scalability/ HTTP/1.1" 200 7888
+"GET /scalability/ HTTP/1.1" 200 8050
+"GET /scalability/ HTTP/1.1" 200 8064
+"GET /scalability/ HTTP/1.1" 200 8040
+"GET /scalability/ HTTP/1.1" 200 7888
+"GET /scalability/ HTTP/1.1" 200 8393
+"GET /scalability/ HTTP/1.1" 200 8055
+"GET /scalability/ HTTP/1.1" 200 8066
+"GET /scalability/ HTTP/1.1" 200 8212
+"GET /scalability/ HTTP/1.1" 200 8396
+"POST /save_simulation_results/ HTTP/1.1" 200 64
+"GET /simulation_results/ HTTP/1.1" 200 1516
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 200 63
+"GET /query_simulation_results/ HTTP/1.1" 200 56387
+"GET /simulation_results/ HTTP/1.1" 200 1516
+"GET /query_simulation_results/ HTTP/1.1" 200 56387
+"GET /simulation_results/ HTTP/1.1" 200 1516
+"GET /query_simulation_results/ HTTP/1.1" 200 56387
+"GET /query_simulation_results/ HTTP/1.1" 200 56387
+"GET /query_simulation_results/ HTTP/1.1" 200 56387
+"GET /query_simulation_results/ HTTP/1.1" 200 56387
+"GET /query_simulation_results/ HTTP/1.1" 200 56387
+"GET /query_simulation_results/ HTTP/1.1" 200 56387
+"GET /simulation_results/ HTTP/1.1" 200 1516
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /scalability/ HTTP/1.1" 200 8048
+"GET /scalability/ HTTP/1.1" 200 8048
+"GET /scalability/ HTTP/1.1" 200 7717
+"GET /scalability/ HTTP/1.1" 200 8390
+"GET /scalability/ HTTP/1.1" 200 8218
+"GET /scalability/ HTTP/1.1" 200 8047
+"GET /scalability/ HTTP/1.1" 200 8400
+"GET /scalability/ HTTP/1.1" 200 8227
+"GET /scalability/ HTTP/1.1" 200 8223
+"GET /scalability/ HTTP/1.1" 200 8222
+"GET /scalability/ HTTP/1.1" 200 8062
+"GET /scalability/ HTTP/1.1" 200 7887
+"GET /scalability/ HTTP/1.1" 200 8217
+"GET /scalability/ HTTP/1.1" 200 8221
+"GET /scalability/ HTTP/1.1" 200 8049
+"GET /scalability/ HTTP/1.1" 200 8063
+"GET /scalability/ HTTP/1.1" 200 8230
+"GET /scalability/ HTTP/1.1" 200 8057
+"GET /scalability/ HTTP/1.1" 200 8063
+"GET /scalability/ HTTP/1.1" 200 8222
+"GET /scalability/ HTTP/1.1" 200 8221
+"GET /scalability/ HTTP/1.1" 200 8385
+"POST /save_simulation_results/ HTTP/1.1" 200 64
+"GET /simulation_results/ HTTP/1.1" 200 1514
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 200 63
+"GET /query_simulation_results/ HTTP/1.1" 200 53686
+"GET /simulation_results/ HTTP/1.1" 200 1514
+"GET /query_simulation_results/ HTTP/1.1" 200 53686
+"GET /query_simulation_results/ HTTP/1.1" 200 53686
+"GET /simulation_results/ HTTP/1.1" 200 1514
+"GET /query_simulation_results/ HTTP/1.1" 200 53686
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /scalability/ HTTP/1.1" 200 8048
+"GET /scalability/ HTTP/1.1" 200 8049
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+Bad Request: /simulate_user_queries/
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 400 56
+"POST /simulate_user_queries/ HTTP/1.1" 200 63
+"GET /query_simulation_results/ HTTP/1.1" 200 1244
+"GET /scalability/ HTTP/1.1" 200 8067
+"GET /scalability/ HTTP/1.1" 200 8053
+"GET /scalability/ HTTP/1.1" 200 8220
+"GET /scalability/ HTTP/1.1" 200 8220
+"GET /scalability/ HTTP/1.1" 200 7891
+"GET /scalability/ HTTP/1.1" 200 7891
+"GET /scalability/ HTTP/1.1" 200 8053
+"GET /scalability/ HTTP/1.1" 200 7877
+"GET /scalability/ HTTP/1.1" 200 8045
+"GET /scalability/ HTTP/1.1" 200 8235
+"GET /scalability/ HTTP/1.1" 200 7717
+"GET /scalability/ HTTP/1.1" 200 8222
+"GET /scalability/ HTTP/1.1" 200 7725
+"GET /scalability/ HTTP/1.1" 200 8219
+"GET /scalability/ HTTP/1.1" 200 8030
+"GET /scalability/ HTTP/1.1" 200 8052
+"GET /scalability/ HTTP/1.1" 200 8218
+"GET /scalability/ HTTP/1.1" 200 8049
+"GET /scalability/ HTTP/1.1" 200 8060
+"GET /query_simulation_results/ HTTP/1.1" 200 1244
+"POST /save_simulation_results/ HTTP/1.1" 200 64
+"GET /simulation_results/ HTTP/1.1" 200 1261
+"GET /scalability/ HTTP/1.1" 200 8080
+- Broken pipe from ('127.0.0.1', 53804)
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /scalability/ HTTP/1.1" 200 8221
+"GET /scalability/ HTTP/1.1" 200 8392
+"GET /scalability/ HTTP/1.1" 200 8049
+"GET /scalability/ HTTP/1.1" 200 8231
+"GET /scalability/ HTTP/1.1" 200 8387
+"GET /scalability/ HTTP/1.1" 200 8215
+"GET /scalability/ HTTP/1.1" 200 8057
+"GET /scalability/ HTTP/1.1" 200 8386
+"GET /scalability/ HTTP/1.1" 200 8399
+"GET /scalability/ HTTP/1.1" 200 8063
+"GET /scalability/ HTTP/1.1" 200 8226
+"GET /scalability/ HTTP/1.1" 200 8225
+"GET /scalability/ HTTP/1.1" 200 8228
+"GET /scalability/ HTTP/1.1" 200 8224
+"GET /scalability/ HTTP/1.1" 200 8056
+"GET /scalability/ HTTP/1.1" 200 7886
+"GET /scalability/ HTTP/1.1" 200 8232
+"GET /scalability/ HTTP/1.1" 200 8031
+"GET /scalability/ HTTP/1.1" 200 8214
+"POST /save_simulation_results/ HTTP/1.1" 200 64
+"GET /simulation_results/ HTTP/1.1" 200 1261
+"GET /scalability/ HTTP/1.1" 200 8228
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /scalability/ HTTP/1.1" 200 8231
+"GET /scalability/ HTTP/1.1" 200 7879
+"GET /scalability/ HTTP/1.1" 200 7905
+"GET /scalability/ HTTP/1.1" 200 8050
+"GET /scalability/ HTTP/1.1" 200 8219
+"GET /scalability/ HTTP/1.1" 200 8237
+"GET /scalability/ HTTP/1.1" 200 8058
+"GET /scalability/ HTTP/1.1" 200 8049
+"GET /scalability/ HTTP/1.1" 200 7719
+"GET /scalability/ HTTP/1.1" 200 8218
+"GET /scalability/ HTTP/1.1" 200 8069
+"GET /scalability/ HTTP/1.1" 200 8209
+"GET /scalability/ HTTP/1.1" 200 7876
+"GET /scalability/ HTTP/1.1" 200 8059
+"GET /scalability/ HTTP/1.1" 200 8238
+"GET /scalability/ HTTP/1.1" 200 8226
+"GET /scalability/ HTTP/1.1" 200 7881
+"GET /scalability/ HTTP/1.1" 200 8397
+"GET /scalability/ HTTP/1.1" 200 8056
+"GET /scalability/ HTTP/1.1" 200 8224
+"GET /scalability/ HTTP/1.1" 200 7900
+"GET /scalability/ HTTP/1.1" 200 8225
+"POST /save_simulation_results/ HTTP/1.1" 200 64
+"GET /simulation_results/ HTTP/1.1" 200 1261
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /scalability/ HTTP/1.1" 200 8216
+"GET /scalability/ HTTP/1.1" 200 7882
+"GET /scalability/ HTTP/1.1" 200 8220
+"GET /scalability/ HTTP/1.1" 200 7891
+"GET /scalability/ HTTP/1.1" 200 8212
+"GET /scalability/ HTTP/1.1" 200 8067
+"GET /scalability/ HTTP/1.1" 200 8217
+"GET /scalability/ HTTP/1.1" 200 8055
+"GET /scalability/ HTTP/1.1" 200 8211
+"GET /scalability/ HTTP/1.1" 200 7895
+"GET /scalability/ HTTP/1.1" 200 7895
+"GET /scalability/ HTTP/1.1" 200 7901
+"GET /scalability/ HTTP/1.1" 200 7887
+"GET /scalability/ HTTP/1.1" 200 8044
+"GET /scalability/ HTTP/1.1" 200 8215
+"GET /scalability/ HTTP/1.1" 200 8396
+"GET /scalability/ HTTP/1.1" 200 7891
+"GET /scalability/ HTTP/1.1" 200 7887
+"GET /scalability/ HTTP/1.1" 200 8060
+"GET /scalability/ HTTP/1.1" 200 8236
+"POST /save_simulation_results/ HTTP/1.1" 200 64
+"GET /simulation_results/ HTTP/1.1" 200 1261
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /scalability/ HTTP/1.1" 200 8045
+"GET /scalability/ HTTP/1.1" 200 8381
+"GET /scalability/ HTTP/1.1" 200 8220
+"GET /scalability/ HTTP/1.1" 200 8232
+"GET /scalability/ HTTP/1.1" 200 8045
+"GET /scalability/ HTTP/1.1" 200 8064
+"GET /scalability/ HTTP/1.1" 200 8208
+"GET /scalability/ HTTP/1.1" 200 8233
+"GET /scalability/ HTTP/1.1" 200 8227
+"GET /scalability/ HTTP/1.1" 200 7899
+"GET /scalability/ HTTP/1.1" 200 8223
+"GET /scalability/ HTTP/1.1" 200 7900
+"GET /scalability/ HTTP/1.1" 200 8229
+"GET /scalability/ HTTP/1.1" 200 7720
+"GET /scalability/ HTTP/1.1" 200 8059
+"GET /scalability/ HTTP/1.1" 200 8064
+"GET /scalability/ HTTP/1.1" 200 8395
+"GET /scalability/ HTTP/1.1" 200 8223
+"GET /scalability/ HTTP/1.1" 200 8233
+"GET /scalability/ HTTP/1.1" 200 8070
+"GET /scalability/ HTTP/1.1" 200 8056
+"GET /scalability/ HTTP/1.1" 200 7892
+"POST /save_simulation_results/ HTTP/1.1" 200 64
+"GET /simulation_results/ HTTP/1.1" 200 1261
+"GET /scalability/ HTTP/1.1" 200 8051
+"GET /scalability/ HTTP/1.1" 200 8379
+"GET /scalability/ HTTP/1.1" 200 8230
+"GET /scalability/ HTTP/1.1" 200 7888
+"GET /scalability/ HTTP/1.1" 200 8053
+"GET /scalability/ HTTP/1.1" 200 8047
+"GET /scalability/ HTTP/1.1" 200 8389
+"GET /scalability/ HTTP/1.1" 200 8397
+"GET /scalability/ HTTP/1.1" 200 8394
+"GET /scalability/ HTTP/1.1" 200 8226
+"GET /scalability/ HTTP/1.1" 200 7900
+"GET /scalability/ HTTP/1.1" 200 8053
+"GET /scalability/ HTTP/1.1" 200 8224
+"GET /scalability/ HTTP/1.1" 200 8387
+"GET /scalability/ HTTP/1.1" 200 7897
+"GET /scalability/ HTTP/1.1" 200 8223
+"GET /scalability/ HTTP/1.1" 200 8050
+"GET /scalability/ HTTP/1.1" 200 8073
+"GET /scalability/ HTTP/1.1" 200 8054
+"GET /scalability/ HTTP/1.1" 200 8240
+"POST /save_simulation_results/ HTTP/1.1" 200 64
+"GET /simulation_results/ HTTP/1.1" 200 1261
+"GET /simulation_results/ HTTP/1.1" 200 31
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/backend/urls.py changed, reloading.
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/backend/urls.py changed, reloading.
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/backend/urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/backend/urls.py changed, reloading.
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/backend/urls.py changed, reloading.
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/backend/urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /scalability/ HTTP/1.1" 200 7877
+"GET /scalability/ HTTP/1.1" 200 8220
+"GET /scalability/ HTTP/1.1" 200 8057
+"GET /scalability/ HTTP/1.1" 200 8064
+"GET /scalability/ HTTP/1.1" 200 8222
+"GET /scalability/ HTTP/1.1" 200 8405
+"GET /scalability/ HTTP/1.1" 200 8061
+"GET /scalability/ HTTP/1.1" 200 8058
+"GET /scalability/ HTTP/1.1" 200 8050
+"GET /scalability/ HTTP/1.1" 200 7888
+"GET /scalability/ HTTP/1.1" 200 7890
+"GET /scalability/ HTTP/1.1" 200 8216
+"GET /scalability/ HTTP/1.1" 200 7715
+"GET /scalability/ HTTP/1.1" 200 8223
+"GET /scalability/ HTTP/1.1" 200 8384
+"GET /scalability/ HTTP/1.1" 200 8062
+"GET /scalability/ HTTP/1.1" 200 8396
+"GET /scalability/ HTTP/1.1" 200 8235
+"GET /scalability/ HTTP/1.1" 200 8225
+"GET /scalability/ HTTP/1.1" 200 8068
+"POST /save_simulation_results/ HTTP/1.1" 200 64
+"GET /simulation_results/ HTTP/1.1" 200 1261
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/backend/urls.py changed, reloading.
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/backend/urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/backend/urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /simulation_results/ HTTP/1.1" 200 31
+"GET /scalability/ HTTP/1.1" 200 8051
+"GET /scalability/ HTTP/1.1" 200 7882
+"GET /scalability/ HTTP/1.1" 200 8219
+"GET /scalability/ HTTP/1.1" 200 8049
+"GET /scalability/ HTTP/1.1" 200 8229
+"GET /scalability/ HTTP/1.1" 200 8220
+"GET /scalability/ HTTP/1.1" 200 8391
+"GET /scalability/ HTTP/1.1" 200 8392
+"GET /scalability/ HTTP/1.1" 200 7879
+"GET /scalability/ HTTP/1.1" 200 7905
+"GET /scalability/ HTTP/1.1" 200 8398
+"GET /scalability/ HTTP/1.1" 200 8214
+"GET /scalability/ HTTP/1.1" 200 8381
+"GET /scalability/ HTTP/1.1" 200 8059
+"GET /scalability/ HTTP/1.1" 200 7893
+"GET /scalability/ HTTP/1.1" 200 8227
+"GET /scalability/ HTTP/1.1" 200 8214
+"GET /scalability/ HTTP/1.1" 200 7893
+"GET /scalability/ HTTP/1.1" 200 8227
+"POST /save_simulation_results/ HTTP/1.1" 200 64
+"GET /simulation_results/ HTTP/1.1" 200 1554
+"GET /scalability/ HTTP/1.1" 200 8059
+- Broken pipe from ('127.0.0.1', 59656)
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/api/views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/backend/urls.py changed, reloading.
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/backend/urls.py changed, reloading.
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/backend/urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/backend/urls.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/backend/urls.py changed, reloading.
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/backend/urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/backend/urls.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/backend/urls.py changed, reloading.
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/backend/urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/backend/urls.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/backend/urls.py changed, reloading.
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/backend/urls.py changed, reloading.
+/Users/jayanthapagundi/Documents/DSD/DSD_Project/backend/urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /scalability/ HTTP/1.1" 200 7876
+"GET /scalability/ HTTP/1.1" 200 7877
+"GET /scalability/ HTTP/1.1" 200 8217
+"GET /scalability/ HTTP/1.1" 200 8219
+"GET /scalability/ HTTP/1.1" 200 8386
+"GET /scalability/ HTTP/1.1" 200 8065
+"GET /scalability/ HTTP/1.1" 200 8230
+"GET /scalability/ HTTP/1.1" 200 8379
+"GET /scalability/ HTTP/1.1" 200 8390
+- Broken pipe from ('127.0.0.1', 60771)
+"GET /scalability/ HTTP/1.1" 200 7895
+"GET /scalability/ HTTP/1.1" 200 8399
+- Broken pipe from ('127.0.0.1', 60774)
+"GET /scalability/ HTTP/1.1" 200 8231
+"GET /scalability/ HTTP/1.1" 200 7890
+"GET /scalability/ HTTP/1.1" 200 8056
+- Broken pipe from ('127.0.0.1', 60780)
+- Broken pipe from ('127.0.0.1', 60784)
+- Broken pipe from ('127.0.0.1', 60785)
+"GET /scalability/ HTTP/1.1" 200 8058
+"GET /scalability/ HTTP/1.1" 200 7902
+"GET /scalability/ HTTP/1.1" 200 8235
+- Broken pipe from ('127.0.0.1', 60790)
+"GET /scalability/ HTTP/1.1" 200 8072
+"POST /save_simulation_results/ HTTP/1.1" 200 64
+"GET /simulation_results/ HTTP/1.1" 200 1307
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 22
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+Internal Server Error: /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 500 199
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+Internal Server Error: /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 500 199
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+Internal Server Error: /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 500 215
+Internal Server Error: /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 500 215
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+Internal Server Error: /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 500 199
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+Internal Server Error: /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 500 211
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+Internal Server Error: /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 500 215
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+Internal Server Error: /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 500 211
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 22
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 22
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+Internal Server Error: /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 500 211
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+Internal Server Error: /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 500 211
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 22
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /save_query_simulation_results/ HTTP/1.1" 200 63
+"GET /get_query_simulation_results HTTP/1.1" 301 0
+Not Found: /query_simulation_results
+"GET /query_simulation_results HTTP/1.1" 404 3424
+"GET /get_query_simulation_results/ HTTP/1.1" 200 18447
+"GET /get_query_simulation_results/ HTTP/1.1" 200 18447
+- Broken pipe from ('127.0.0.1', 60757)
+"GET /get_query_simulation_results/ HTTP/1.1" 200 18447
+"GET /get_query_simulation_results/ HTTP/1.1" 200 18447
+"GET /get_query_simulation_results/ HTTP/1.1" 200 18447
+"GET /get_query_simulation_results/ HTTP/1.1" 200 18447
+"GET /get_query_simulation_results/ HTTP/1.1" 200 18447
+"GET /get_query_simulation_results/ HTTP/1.1" 200 18447
+"GET /get_query_simulation_results/ HTTP/1.1" 200 18447
+"GET /get_query_simulation_results/ HTTP/1.1" 200 18447
+"GET /get_query_simulation_results/ HTTP/1.1" 200 18447
+"GET /get_query_simulation_results/ HTTP/1.1" 200 18447
+"GET /simulation_results/ HTTP/1.1" 200 1307
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /scalability/ HTTP/1.1" 200 8216
+"GET /scalability/ HTTP/1.1" 200 8064
+"GET /scalability/ HTTP/1.1" 200 8230
+"GET /scalability/ HTTP/1.1" 200 8220
+"GET /scalability/ HTTP/1.1" 200 8058
+"GET /scalability/ HTTP/1.1" 200 7891
+"GET /scalability/ HTTP/1.1" 200 8394
+"GET /scalability/ HTTP/1.1" 200 8224
+"GET /scalability/ HTTP/1.1" 200 8058
+"GET /scalability/ HTTP/1.1" 200 8229
+"GET /scalability/ HTTP/1.1" 200 7892
+"GET /scalability/ HTTP/1.1" 200 7891
+"GET /scalability/ HTTP/1.1" 200 8224
+"GET /scalability/ HTTP/1.1" 200 8228
+"GET /scalability/ HTTP/1.1" 200 8055
+"GET /scalability/ HTTP/1.1" 200 8235
+"GET /scalability/ HTTP/1.1" 200 7893
+"GET /scalability/ HTTP/1.1" 200 8059
+"GET /scalability/ HTTP/1.1" 200 7727
+"GET /scalability/ HTTP/1.1" 200 8226
+"GET /scalability/ HTTP/1.1" 200 7892
+"GET /scalability/ HTTP/1.1" 200 8382
+"POST /save_simulation_results/ HTTP/1.1" 200 64
+"GET /simulation_results/ HTTP/1.1" 200 1516
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 22
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 22
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 22
+"POST /execute_bigquery/ HTTP/1.1" 200 22
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 22
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+Internal Server Error: /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 500 199
+Internal Server Error: /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 500 199
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+Internal Server Error: /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 500 211
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+Internal Server Error: /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 500 211
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+Internal Server Error: /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 500 211
+"POST /execute_bigquery/ HTTP/1.1" 200 22
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+Internal Server Error: /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 500 215
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+Internal Server Error: /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 500 215
+"POST /execute_bigquery/ HTTP/1.1" 200 22
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 22
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+Internal Server Error: /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 500 211
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 22
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+Internal Server Error: /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 500 199
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+Internal Server Error: /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 500 199
+"POST /execute_bigquery/ HTTP/1.1" 200 22
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 22
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /save_query_simulation_results/ HTTP/1.1" 200 63
+"GET /get_query_simulation_results/ HTTP/1.1" 200 18598
+"GET /simulation_results/ HTTP/1.1" 200 1516
+"GET /get_query_simulation_results/ HTTP/1.1" 200 18598
+"GET /get_query_simulation_results/ HTTP/1.1" 200 18598
+"GET /get_query_simulation_results/ HTTP/1.1" 200 18598
+"GET /get_query_simulation_results/ HTTP/1.1" 200 18598
+"GET /scalability/ HTTP/1.1" 200 8052
+"GET /scalability/ HTTP/1.1" 200 7894
+"GET /scalability/ HTTP/1.1" 200 8224
+"GET /scalability/ HTTP/1.1" 200 8231
+"GET /scalability/ HTTP/1.1" 200 7908
+"GET /scalability/ HTTP/1.1" 200 8072
+"GET /scalability/ HTTP/1.1" 200 7893
+"GET /scalability/ HTTP/1.1" 200 8249
+"GET /scalability/ HTTP/1.1" 200 7716
+"GET /scalability/ HTTP/1.1" 200 8239
+"GET /scalability/ HTTP/1.1" 200 8243
+"GET /scalability/ HTTP/1.1" 200 8233
+"GET /scalability/ HTTP/1.1" 200 8059
+"GET /scalability/ HTTP/1.1" 200 8081
+"GET /scalability/ HTTP/1.1" 200 8078
+"GET /scalability/ HTTP/1.1" 200 8078
+"GET /scalability/ HTTP/1.1" 200 7906
+"GET /scalability/ HTTP/1.1" 200 8243
+"GET /scalability/ HTTP/1.1" 200 8398
+"GET /scalability/ HTTP/1.1" 200 8220
+"GET /scalability/ HTTP/1.1" 200 8065
+"POST /save_simulation_results/ HTTP/1.1" 200 64
+"GET /scalability/ HTTP/1.1" 200 8069
+"GET /simulation_results/ HTTP/1.1" 200 1512
+"GET /simulation_results/ HTTP/1.1" 200 1512
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 22
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+Internal Server Error: /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 500 199
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+Internal Server Error: /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 500 199
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+Internal Server Error: /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 500 215
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+Internal Server Error: /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 500 215
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+Internal Server Error: /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 500 199
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+Internal Server Error: /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 500 199
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+Internal Server Error: /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 500 215
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+Internal Server Error: /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 500 215
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+Internal Server Error: /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 500 199
+Internal Server Error: /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 500 211
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+Internal Server Error: /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 500 211
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+Internal Server Error: /execute_bigquery/
+"POST /execute_bigquery/ HTTP/1.1" 500 199
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 23
+"POST /execute_bigquery/ HTTP/1.1" 200 24
+"POST /save_query_simulation_results/ HTTP/1.1" 200 63
+"GET /get_query_simulation_results/ HTTP/1.1" 200 18868
+"GET /get_query_simulation_results/ HTTP/1.1" 200 18868
+"GET /get_query_simulation_results/ HTTP/1.1" 200 18868
+- Broken pipe from ('127.0.0.1', 63786)
+"GET /scalability/ HTTP/1.1" 200 8222
+"GET /scalability/ HTTP/1.1" 200 8219
