@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "spheric-camera-444321-g6",
+  "private_key_id": "1adf7e979c6ab8ee922be1706967231d9edf844d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC5TxB6sFA9OOBb\n7BTvz0utnhF4mnZ0/qQcXMNb721PV0b0a0MGdqLFBP/sXUpRR+a9g/RIWfLoslxL\nKMsluBDjwqwA+VXML73hnf4/AsVwLr3ZQK8ETXIURzBuwK2cHdYwMD0vhws/cigB\nmnY6S22G2lNHQwuWlrtZ7QGcgtkIRm1QLbVKxmrw+VCYU9w5EeYggFM5s8jHBo0y\n2tX4bAzhNiA0vFakRzeR68aWg3lPCLX77sbrnUOELgBiu82i08EpbQSFVjPa2JPx\naicQzLp+/qTute7zTRs1e6c2Tr9cg0iASDW6RO/7P91O9uAv20E9nHYevOONqTPA\nqu1QFH1xAgMBAAECgf8XNV/K/eoOwODYomi84CmKRRHLGQ1c+cd0BeoxyXrXRQcN\n9aEfXhxksIuc/tIf+/FaKvydUyapHi2Q/Dr1LmhvHiKMvK2SNSiC6Va+bYps0m3U\nl9VTpJ91CrV2KYuU0efRgTkoirFN8O4xxTapdmjxSsbDVhJNefNc/+IDyB+GeZSE\nLys8zZNR/vmqpnXlOrMen8RNG7Omo/gOq76CrHDQMm8rFLWhrMpqF4qf9IFzSzJY\nOiBUtYAxtWAVt88v3oDu/4phCBcIskDsDng4hEneTj45+HHmCjysrxvrjExG8bWa\nHYf6OBvsDDclW3Y7eBeI1pqZjyhOuh5wNDLKd2ECgYEA+exEF2Ymv+f35ZIEPw4G\n9NJ2XK9MqlGHpSLnyvmT1qeIY1b2ss1xPIq16jpIf351nYJyj3LvviXySNAwBon7\nROYH7q7svXCxsmbcTQw7U9hMQACoE1R9ROGzwavbD2xkURXBTqL+nzgqr+GiB/Q2\nFy4o9n3xpHiaBR/CMXf+8BECgYEAvdCVzG2Ur4oudzM4JInWyJfN/SAcPdMTKFqv\nQ29IYj6RUCgBgDWTO6/R6Joi+pHNTkMzl1ISK9FVnEdyLKijEI08Xy0qVXRXfEqy\npWb8HjYpxPxRWutIhEVwzEHWQA4gEn5j59jk0GIEnClh9PXVeeAaENbiJLMstope\n6MxKF2ECgYA10cRECbJ0hx6iKFSTw5CJ7jyg7vsiflYooKCr3B0TD5bWVabgkE8/\nS1uragussO3hEnNbItQv7XoEZhjBf7tFdgflRXQjw33wvifYy7aG8sBQ1BNdvkcP\nq08LeNe+tYfQ0k+DgKQ2Y2EF6R/8eIGhckZN9ocv9OyuB83I219iEQKBgQCNgSd7\njCGxL6luMZ/kFWIqjokA8GQ9btK0Xc6Uziw/GXfJMtnTk50cfPlWlzoGZJWSh6S5\nZXSod9mDtPuX8WwHFdNw/MG3jRD/VsyRZBIGD8jZ0mRwDEE2YnIxw88OV7lvMAwY\ntmf2NWxMYsllDbPEtN2ZuihCxdRKjSMuF8YQYQKBgQDDfmWn13gTMTN9q+Uga76O\nasSwLc3kHpRkijvi0af+k2Oq9GqqW+KlOGqeipg8DnL9/TmNnILzElhk9iAvFMb2\nNrkdMvrmnonir0VF8VXnx+Tfr0hKlz9cL+Ks5rRHAOYWE6lQHmlO6GYLSq+koEnx\nw3NpwiWuIV5XAVK9k9pVEg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "bigquery-access-service@spheric-camera-444321-g6.iam.gserviceaccount.com",
+  "client_id": "101908083037298060577",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bigquery-access-service%40spheric-camera-444321-g6.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
